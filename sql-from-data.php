@@ -8,6 +8,7 @@ define('DRD_ROOT', realpath(dirname(__FILE__)) . '/');
 define('DRD_FILE_IN', DRD_ROOT . 'danish_regional_data.txt');
 define('DRD_FILE_OUT', DRD_ROOT . 'danish_regional_data.sql');
 define('DRD_TABLE_PREFIX', 'danish_regional_data_');
+define('DRD_DENORMALIZE_CITY', TRUE);
 
 // Includes.
 require DRD_ROOT . 'lib.php';
@@ -40,10 +41,20 @@ foreach(explode("\n", $data_as_text) as $row) {
     $regions[$ms['region_id']] = array('id' => $ms['region_id'] ,'name' => $ms['region_name']);
     $communes[$ms['commune_id']] = array('id' => $ms['commune_id'], 'region_id' => $ms['region_id'], 'name' => $ms['commune_name']);
     $cities[$ms['city_id']] = array('id' => $ms['city_id'], 'commune_id' => $ms['commune_id'], 'name' => $ms['city_name']);
+    if (DRD_DENORMALIZE_CITY) {
+        $cities[$ms['city_id']]['region_name'] = $ms['region_name'];
+        $cities[$ms['city_id']]['commune_name'] = $ms['commune_name'];
+    }
 }
 
 // Collect sql.
 $pf = DRD_TABLE_PREFIX;
+$sql_city_denormalized = DRD_DENORMALIZE_CITY ?
+    "
+  `region_name` varchar(11) COLLATE utf8_danish_ci NOT NULL,
+  `commune_name` varchar(18) COLLATE utf8_danish_ci NOT NULL,"
+  : '';
+
 $sql = 
 "CREATE TABLE IF NOT EXISTS `{$pf}region` (
   `id` smallint(11) unsigned NOT NULL AUTO_INCREMENT,
@@ -61,7 +72,7 @@ CREATE TABLE IF NOT EXISTS `{$pf}commune` (
 CREATE TABLE IF NOT EXISTS `{$pf}city` (
   `id` smallint(11) unsigned NOT NULL AUTO_INCREMENT,
   `commune_id` int(11) NOT NULL,
-  `name` varchar($max_city_name_len) COLLATE utf8_danish_ci NOT NULL,
+  `name` varchar($max_city_name_len) COLLATE utf8_danish_ci NOT NULL,$sql_city_denormalized
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_danish_ci;
 
