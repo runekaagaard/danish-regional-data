@@ -8,7 +8,7 @@ define('DRD_ROOT', realpath(dirname(__FILE__)) . '/');
 define('DRD_FILE_IN', DRD_ROOT . 'danish_regional_data.txt');
 define('DRD_FILE_OUT', DRD_ROOT . 'danish_regional_data.sql');
 define('DRD_TABLE_PREFIX', 'danish_regional_data_');
-define('DRD_DENORMALIZE_CITY', TRUE);
+define('DRD_DENORMALIZE_CITY', FALSE);
 
 // Includes.
 require DRD_ROOT . 'lib.php';
