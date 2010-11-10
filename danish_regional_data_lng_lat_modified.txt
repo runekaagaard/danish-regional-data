@@ -1,0 +1,1428 @@
+1081  Region Nordjylland       773 Morsø Kommune              7900 Nykøbing M 56.83431 8.80040
+1081  Region Nordjylland       773 Morsø Kommune              7950 Erslev 56.84783 8.70587
+1081  Region Nordjylland       773 Morsø Kommune              7960 Karby 56.75372 8.57721
+1081  Region Nordjylland       773 Morsø Kommune              7970 Redsted M 56.74392 8.65132
+1081  Region Nordjylland       773 Morsø Kommune              7980 Vils 56.75431 8.72609
+1081  Region Nordjylland       773 Morsø Kommune              7990 Øster Assels 56.70407 8.70038
+1081  Region Nordjylland       787 Thisted Kommune            7700 Thisted 56.99708 8.63715
+1081  Region Nordjylland       787 Thisted Kommune            7730 Hanstholm 57.09286 8.66337
+1081  Region Nordjylland       787 Thisted Kommune            7741 Frøstrup 57.09816 8.94416
+1081  Region Nordjylland       787 Thisted Kommune            7742 Vesløs 57.02407 8.99126
+1081  Region Nordjylland       787 Thisted Kommune            7752 Snedsted 56.87693 8.49589
+1081  Region Nordjylland       787 Thisted Kommune            7755 Bedsted Thy 56.83561 8.37954
+1081  Region Nordjylland       787 Thisted Kommune            7760 Hurup Thy 56.72991 8.41482
+1081  Region Nordjylland       787 Thisted Kommune            7770 Vestervig 56.77462 8.28693
+1081  Region Nordjylland       810 Brønderslev Kommune        9320 Hjallerup 57.18720 10.14486
+1081  Region Nordjylland       810 Brønderslev Kommune        9330 Dronninglund 57.18941 10.30605
+1081  Region Nordjylland       810 Brønderslev Kommune        9340 Asaa 57.14154 10.38312
+1081  Region Nordjylland       810 Brønderslev Kommune        9352 Dybvad 57.27948 10.32145
+1081  Region Nordjylland       810 Brønderslev Kommune        9370 Hals 57.04698 10.29528
+1081  Region Nordjylland       810 Brønderslev Kommune        9382 Tylstrup 57.20815 9.93082
+1081  Region Nordjylland       810 Brønderslev Kommune        9440 Aabybro 57.15578 9.74749
+1081  Region Nordjylland       810 Brønderslev Kommune        9480 Løkken 57.36620 9.76406
+1081  Region Nordjylland       810 Brønderslev Kommune        9700 Brønderslev 57.27280 9.92994
+1081  Region Nordjylland       810 Brønderslev Kommune        9740 Jerslev J 57.28873 10.12881
+1081  Region Nordjylland       810 Brønderslev Kommune        9750 Østervrå 57.33806 10.26910
+1081  Region Nordjylland       810 Brønderslev Kommune        9760 Vrå 57.36096 9.94535
+1081  Region Nordjylland       813 Frederikshavn Kommune      9300 Sæby 57.29696 10.45696
+1081  Region Nordjylland       813 Frederikshavn Kommune      9330 Dronninglund 57.18941 10.30605
+1081  Region Nordjylland       813 Frederikshavn Kommune      9340 Asaa 57.14154 10.38312
+1081  Region Nordjylland       813 Frederikshavn Kommune      9352 Dybvad 57.27948 10.32145
+1081  Region Nordjylland       813 Frederikshavn Kommune      9750 Østervrå 57.33806 10.26910
+1081  Region Nordjylland       813 Frederikshavn Kommune      9830 Tårs 57.37622 10.14892
+1081  Region Nordjylland       813 Frederikshavn Kommune      9870 Sindal 57.46764 10.25575
+1081  Region Nordjylland       813 Frederikshavn Kommune      9881 Bindslev 57.56436 10.22885
+1081  Region Nordjylland       813 Frederikshavn Kommune      9900 Frederikshavn 57.43084 10.43055
+1081  Region Nordjylland       813 Frederikshavn Kommune      9970 Strandby 57.49439 10.47880
+1081  Region Nordjylland       813 Frederikshavn Kommune      9981 Jerup 57.52928 10.41064
+1081  Region Nordjylland       813 Frederikshavn Kommune      9982 Ålbæk 57.60478 10.37200
+1081  Region Nordjylland       813 Frederikshavn Kommune      9990 Skagen 57.69575 10.50060
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9240 Nibe 56.94753 9.58690
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9541 Suldrup 56.84736 9.68440
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9600 Aars 56.80945 9.48968
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9610 Nørager 56.74667 9.67070
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9620 Aalestrup 56.68902 9.49408
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9631 Gedsted 56.69385 9.36342
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9640 Farsø 56.78007 9.29652
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9670 Løgstør 56.93323 9.30843
+1081  Region Nordjylland       820 Vesthimmerlands Kommune    9681 Ranum 56.89974 9.20031
+1081  Region Nordjylland       825 Læsø Kommune               9940 Læsø 57.27374 11.02024
+1081  Region Nordjylland       840 Rebild Kommune             9230 Svenstrup J 56.95760 9.86094
+1081 Region Nordjylland 840 Rebild Kommune        9240 Nibe 56.94753 9.58690
+1081 Region Nordjylland 840 Rebild Kommune        9260 Gistrup 56.94984 10.00145
+1081 Region Nordjylland 840 Rebild Kommune        9293 Kongerslev 56.89066 10.10685
+1081 Region Nordjylland 840 Rebild Kommune        9500 Hobro 56.65135 9.75988
+1081 Region Nordjylland 840 Rebild Kommune        9510 Arden 56.76717 9.90862
+1081 Region Nordjylland 840 Rebild Kommune        9520 Skørping 56.84321 9.90808
+1081 Region Nordjylland 840 Rebild Kommune        9530 Støvring 56.89773 9.80910
+1081 Region Nordjylland 840 Rebild Kommune        9541 Suldrup 56.84736 9.68440
+1081 Region Nordjylland 840 Rebild Kommune        9560 Hadsund 56.74561 10.16570
+1081 Region Nordjylland 840 Rebild Kommune        9574 Bælum 56.82389 10.13785
+1081 Region Nordjylland 840 Rebild Kommune        9575 Terndrup 56.80393 10.04767
+1081 Region Nordjylland 840 Rebild Kommune        9600 Aars 56.80945 9.48968
+1081 Region Nordjylland 840 Rebild Kommune        9610 Nørager 56.74667 9.67070
+1081 Region Nordjylland 840 Rebild Kommune        9620 Aalestrup 56.68902 9.49408
+1081 Region Nordjylland 846 Mariagerfjord Kommune 8970 Havndal 56.64727 10.23814
+1081 Region Nordjylland 846 Mariagerfjord Kommune 8990 Fårup 56.55280 9.86579
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9500 Hobro 56.65135 9.75988
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9510 Arden 56.76717 9.90862
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9550 Mariager 56.63137 9.99392
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9560 Hadsund 56.74561 10.16570
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9620 Aalestrup 56.68902 9.49408
+1081 Region Nordjylland 846 Mariagerfjord Kommune 9632 Møldrup 56.60984 9.50602
+1081 Region Nordjylland 849 Jammerbugt Kommune    9381 Sulsted 57.16447 9.96432
+1081 Region Nordjylland 849 Jammerbugt Kommune    9382 Tylstrup 57.20815 9.93082
+1081 Region Nordjylland 849 Jammerbugt Kommune    9430 Vadum 57.13057 9.86248
+1081 Region Nordjylland 849 Jammerbugt Kommune    9440 Aabybro 57.15578 9.74749
+1081 Region Nordjylland 849 Jammerbugt Kommune    9460 Brovst 57.11611 9.51824
+1081 Region Nordjylland 849 Jammerbugt Kommune    9480 Løkken 57.36620 9.76406
+1081 Region Nordjylland 849 Jammerbugt Kommune    9490 Pandrup 57.20836 9.63037
+1081 Region Nordjylland 849 Jammerbugt Kommune    9492 Blokhus 57.25164 9.60549
+1081 Region Nordjylland 849 Jammerbugt Kommune    9493 Saltum 57.26979 9.68599
+1081 Region Nordjylland 849 Jammerbugt Kommune    9670 Løgstør 56.93323 9.30843
+1081 Region Nordjylland 849 Jammerbugt Kommune    9690 Fjerritslev 57.08684 9.23906
+1081 Region Nordjylland 849 Jammerbugt Kommune    9700 Brønderslev 57.27280 9.92994
+1081 Region Nordjylland 851 Aalborg Kommune       9000 Aalborg 57.03904 9.85315
+1081 Region Nordjylland 851 Aalborg Kommune       9200 Aalborg SV 57.00690 9.85823
+1081 Region Nordjylland 851 Aalborg Kommune       9210 Aalborg SØ 57.00462 9.93304
+1081 Region Nordjylland 851 Aalborg Kommune       9220 Aalborg Øst 57.04213 10.00401
+1081 Region Nordjylland 851 Aalborg Kommune       9230 Svenstrup J 56.95760 9.86094
+1081 Region Nordjylland 851 Aalborg Kommune       9240 Nibe 56.94753 9.58690
+1081 Region Nordjylland 851 Aalborg Kommune       9260 Gistrup 56.94984 10.00145
+1081 Region Nordjylland 851 Aalborg Kommune       9270 Klarup 57.01551 10.05241
+1081 Region Nordjylland 851 Aalborg Kommune       9280 Storvorde 56.93898 10.17639
+1081 Region Nordjylland 851 Aalborg Kommune       9293 Kongerslev 56.89066 10.10685
+1081 Region Nordjylland 851 Aalborg Kommune       9310 Vodskov 57.10252 10.08255
+1081 Region Nordjylland 851 Aalborg Kommune       9320 Hjallerup 57.18720 10.14486
+1081 Region Nordjylland 851 Aalborg Kommune       9362 Gandrup 57.05330 10.18879
+1081 Region Nordjylland 851 Aalborg Kommune       9370 Hals 57.04698 10.29528
+1081 Region Nordjylland 851 Aalborg Kommune       9380 Vestbjerg 57.12844 9.97479
+1081 Region Nordjylland 851 Aalborg Kommune       9381 Sulsted 57.16447 9.96432
+1081 Region Nordjylland 851 Aalborg Kommune       9382 Tylstrup 57.20815 9.93082
+1081 Region Nordjylland 851 Aalborg Kommune       9400 Nørresundby 57.09164 9.92506
+1081 Region Nordjylland 851 Aalborg Kommune   9430 Vadum 57.13057 9.86248
+1081 Region Nordjylland 851 Aalborg Kommune   9440 Aabybro 57.15578 9.74749
+1081 Region Nordjylland 851 Aalborg Kommune   9530 Støvring 56.89773 9.80910
+1081 Region Nordjylland 860 Hjørring Kommune  9480 Løkken 57.36620 9.76406
+1081 Region Nordjylland 860 Hjørring Kommune  9740 Jerslev J 57.28873 10.12881
+1081 Region Nordjylland 860 Hjørring Kommune  9750 Østervrå 57.33806 10.26910
+1081 Region Nordjylland 860 Hjørring Kommune  9760 Vrå 57.36096 9.94535
+1081 Region Nordjylland 860 Hjørring Kommune  9800 Hjørring 57.47440 9.99996
+1081 Region Nordjylland 860 Hjørring Kommune  9830 Tårs 57.37622 10.14892
+1081 Region Nordjylland 860 Hjørring Kommune  9850 Hirtshals 57.55335 9.97355
+1081 Region Nordjylland 860 Hjørring Kommune  9870 Sindal 57.46764 10.25575
+1081 Region Nordjylland 860 Hjørring Kommune  9881 Bindslev 57.56436 10.22885
+1081 Region Nordjylland 860 Hjørring Kommune  9900 Frederikshavn 57.43084 10.43055
+1081 Region Nordjylland 860 Hjørring Kommune  9982 Ålbæk 57.60478 10.37200
+1082 Region Midtjylland 615 Horsens Kommune   8654 Bryrup 56.02587 9.50400
+1082 Region Midtjylland 615 Horsens Kommune   8660 Skanderborg 56.03748 9.88708
+1082 Region Midtjylland 615 Horsens Kommune   8680 Ry 56.09105 9.74053
+1082 Region Midtjylland 615 Horsens Kommune   8700 Horsens 55.86630 9.87540
+1082 Region Midtjylland 615 Horsens Kommune   8732 Hovedgård 55.95452 9.96351
+1082 Region Midtjylland 615 Horsens Kommune   8740 Brædstrup 55.98286 9.60655
+1082 Region Midtjylland 615 Horsens Kommune   8751 Gedved 55.94108 9.85287
+1082 Region Midtjylland 615 Horsens Kommune   8752 Østbirk 55.97395 9.75289
+1082 Region Midtjylland 615 Horsens Kommune   8762 Flemming 55.87080 9.66497
+1082 Region Midtjylland 615 Horsens Kommune   8765 Klovborg 55.92978 9.49405
+1082 Region Midtjylland 615 Horsens Kommune   8781 Stenderup 55.79941 9.81179
+1082 Region Midtjylland 615 Horsens Kommune   8783 Hornsyld 55.76583 9.84871
+1082 Region Midtjylland 657 Herning Kommune   6933 Kibæk 55.99198 8.88089
+1082 Region Midtjylland 657 Herning Kommune   6973 Ørnhøj 56.20458 8.55563
+1082 Region Midtjylland 657 Herning Kommune   6990 Ulfborg 56.26396 8.28618
+1082 Region Midtjylland 657 Herning Kommune   7260 Sønder Omme 55.84675 8.89858
+1082 Region Midtjylland 657 Herning Kommune   7270 Stakroge 55.89726 8.84510
+1082 Region Midtjylland 657 Herning Kommune   7280 Sønder Felding 55.94059 8.79483
+1082 Region Midtjylland 657 Herning Kommune   7330 Brande 55.93222 9.08429
+1082 Region Midtjylland 657 Herning Kommune   7400 Herning 56.11404 8.97061
+1082 Region Midtjylland 657 Herning Kommune   7451 Sunds 56.23811 9.02869
+1082 Region Midtjylland 657 Herning Kommune   7470 Karup J 56.32862 9.17938
+1082 Region Midtjylland 657 Herning Kommune   7480 Vildbjerg 56.17565 8.73542
+1082 Region Midtjylland 657 Herning Kommune   7490 Aulum 56.28541 8.81931
+1082 Region Midtjylland 657 Herning Kommune   7500 Holstebro 56.34503 8.63625
+1082 Region Midtjylland 657 Herning Kommune   7540 Haderup 56.34251 8.98710
+1082 Region Midtjylland 657 Herning Kommune   7550 Sørvad 56.25078 8.66395
+1082 Region Midtjylland 657 Herning Kommune   7830 Vinderup 56.46919 8.81971
+1082 Region Midtjylland 661 Holstebro Kommune 6990 Ulfborg 56.26396 8.28618
+1082 Region Midtjylland 661 Holstebro Kommune 7500 Holstebro 56.34503 8.63625
+1082 Region Midtjylland 661 Holstebro Kommune 7540 Haderup 56.34251 8.98710
+1082 Region Midtjylland 661 Holstebro Kommune 7560 Hjerm 56.43576 8.65141
+1082 Region Midtjylland 661 Holstebro Kommune 7570 Vemb 56.36251 8.31468
+1082 Region Midtjylland 661 Holstebro Kommune 7600 Struer 56.47005 8.52602
+1082 Region Midtjylland 661 Holstebro Kommune 7800 Skive 56.52474 8.98371
+1082 Region Midtjylland 661 Holstebro Kommune 7830 Vinderup 56.46919 8.81971
+1082 Region Midtjylland 665 Lemvig Kommune    6990 Ulfborg 56.26396 8.28618
+1082 Region Midtjylland 665 Lemvig Kommune    7570 Vemb 56.36251 8.31468
+1082 Region Midtjylland 665 Lemvig Kommune    7600 Struer 56.47005 8.52602
+1082 Region Midtjylland 665 Lemvig Kommune    7620 Lemvig 56.55912 8.32397
+1082 Region Midtjylland 665 Lemvig Kommune    7650 Bøvlingbjerg 56.43742 8.20372
+1082 Region Midtjylland 665 Lemvig Kommune    7660 Bækmarksbro 56.41739 8.32277
+1082 Region Midtjylland 665 Lemvig Kommune    7673 Harboøre 56.61410 8.17162
+1082 Region Midtjylland 665 Lemvig Kommune    7680 Thyborøn 56.69368 8.21321
+1082 Region Midtjylland 671 Struer Kommune    7500 Holstebro 56.34503 8.63625
+1082 Region Midtjylland 671 Struer Kommune    7560 Hjerm 56.43576 8.65141
+1082 Region Midtjylland 671 Struer Kommune    7600 Struer 56.47005 8.52602
+1082 Region Midtjylland 671 Struer Kommune    7660 Bækmarksbro 56.41739 8.32277
+1082 Region Midtjylland 671 Struer Kommune    7760 Hurup Thy 56.72991 8.41482
+1082 Region Midtjylland 671 Struer Kommune    7790 Thyholm 56.64243 8.53402
+1082 Region Midtjylland 671 Struer Kommune    7830 Vinderup 56.46919 8.81971
+1082 Region Midtjylland 706 Syddjurs Kommune  8400 Ebeltoft 56.24272 10.68605
+1082 Region Midtjylland 706 Syddjurs Kommune  8410 Rønde 56.30440 10.51952
+1082 Region Midtjylland 706 Syddjurs Kommune  8420 Knebel 56.18590 10.48459
+1082 Region Midtjylland 706 Syddjurs Kommune  8444 Balle 56.31328 10.80594
+1082 Region Midtjylland 706 Syddjurs Kommune  8543 Hornslet 56.32678 10.27610
+1082 Region Midtjylland 706 Syddjurs Kommune  8544 Mørke 56.36282 10.33071
+1082 Region Midtjylland 706 Syddjurs Kommune  8550 Ryomgård 56.38336 10.47391
+1082 Region Midtjylland 706 Syddjurs Kommune  8560 Kolind 56.35518 10.62084
+1082 Region Midtjylland 706 Syddjurs Kommune  8570 Trustrup 56.35876 10.75092
+1082 Region Midtjylland 706 Syddjurs Kommune  8581 Nimtofte 56.42191 10.56942
+1082 Region Midtjylland 706 Syddjurs Kommune  8963 Auning 56.42896 10.40115
+1082 Region Midtjylland 707 Norddjurs Kommune 8444 Balle 56.31328 10.80594
+1082 Region Midtjylland 707 Norddjurs Kommune 8500 Grenaa 56.43242 10.84058
+1082 Region Midtjylland 707 Norddjurs Kommune 8544 Mørke 56.36282 10.33071
+1082 Region Midtjylland 707 Norddjurs Kommune 8550 Ryomgård 56.38336 10.47391
+1082 Region Midtjylland 707 Norddjurs Kommune 8560 Kolind 56.35518 10.62084
+1082 Region Midtjylland 707 Norddjurs Kommune 8570 Trustrup 56.35876 10.75092
+1082 Region Midtjylland 707 Norddjurs Kommune 8581 Nimtofte 56.42191 10.56942
+1082 Region Midtjylland 707 Norddjurs Kommune 8585 Glesborg 56.49623 10.68346
+1082 Region Midtjylland 707 Norddjurs Kommune 8586 Ørum Djurs 56.44495 10.65048
+1082 Region Midtjylland 707 Norddjurs Kommune 8592 Anholt 56.71196 11.57106
+1082 Region Midtjylland 707 Norddjurs Kommune 8950 Ørsted 56.52603 10.31843
+1082 Region Midtjylland 707 Norddjurs Kommune 8961 Allingåbro 56.47817 10.43119
+1082 Region Midtjylland 707 Norddjurs Kommune 8963 Auning 56.42896 10.40115
+1082 Region Midtjylland 710 Favrskov Kommune  8370 Hadsten 56.34312 10.07632
+1082 Region Midtjylland 710 Favrskov Kommune  8380 Trige 56.26317 10.15032
+1082 Region Midtjylland 710 Favrskov Kommune  8382 Hinnerup 56.26389 10.04668
+1082 Region Midtjylland 710 Favrskov Kommune  8450 Hammel 56.26667 9.87682
+1082 Region Midtjylland 710 Favrskov Kommune  8471 Sabro 56.21631 10.00655
+1082 Region Midtjylland 710 Favrskov Kommune  8472 Sporup 56.20829 9.83021
+1082 Region Midtjylland 710 Favrskov Kommune  8641 Sorring 56.17896 9.78878
+1082 Region Midtjylland 710 Favrskov Kommune  8850 Bjerringbro 56.38358 9.65260
+1082 Region Midtjylland 710 Favrskov Kommune  8860 Ulstrup 56.38785 9.79013
+1082 Region Midtjylland 710 Favrskov Kommune  8870 Langå 56.37505 9.90555
+1082 Region Midtjylland 710 Favrskov Kommune  8881 Thorsø 56.30907 9.77865
+1082 Region Midtjylland 710 Favrskov Kommune  8882 Fårvang 56.27223 9.71170
+1082 Region Midtjylland 710 Favrskov Kommune  8940 Randers SV 56.415419 10.018003
+1082 Region Midtjylland 710 Favrskov Kommune  8960 Randers SØ 56.436453 10.175311
+1082 Region Midtjylland 727 Odder Kommune     8300 Odder 55.94505 10.16210
+1082 Region Midtjylland 727 Odder Kommune       8340 Malling 56.03111 10.19765
+1082 Region Midtjylland 727 Odder Kommune       8350 Hundslund 55.91644 10.06083
+1082 Region Midtjylland 727 Odder Kommune       8660 Skanderborg 56.03748 9.88708
+1082 Region Midtjylland 730 Randers Kommune     8860 Ulstrup 56.38785 9.79013
+1082 Region Midtjylland 730 Randers Kommune     8870 Langå 56.37505 9.90555
+1082 Region Midtjylland 730 Randers Kommune     8900 Randers C 56.46483 10.04234
+1082 Region Midtjylland 730 Randers Kommune     8920 Randers NV 56.47235255844717 9.874305725097656
+1082 Region Midtjylland 730 Randers Kommune     8930 Randers NØ 56.49529093375795 10.148277282714844
+1082 Region Midtjylland 730 Randers Kommune     8940 Randers SV 56.415419 10.018003
+1082 Region Midtjylland 730 Randers Kommune     8960 Randers SØ 56.436453 10.175311
+1082 Region Midtjylland 730 Randers Kommune     8970 Havndal 56.64727 10.23814
+1082 Region Midtjylland 730 Randers Kommune     8981 Spentrup 56.54719 10.02335
+1082 Region Midtjylland 730 Randers Kommune     8983 Gjerlev J 56.58157 10.12394
+1082 Region Midtjylland 730 Randers Kommune     8990 Fårup 56.55280 9.86579
+1082 Region Midtjylland 730 Randers Kommune     9550 Mariager 56.63137 9.99392
+1082 Region Midtjylland 740 Silkeborg Kommune   7362 Hampen 56.05206 9.37425
+1082 Region Midtjylland 740 Silkeborg Kommune   7441 Bording 56.16677 9.25801
+1082 Region Midtjylland 740 Silkeborg Kommune   7442 Engesvang 56.19742 9.31407
+1082 Region Midtjylland 740 Silkeborg Kommune   7470 Karup J 56.32862 9.17938
+1082 Region Midtjylland 740 Silkeborg Kommune   8450 Hammel 56.26667 9.87682
+1082 Region Midtjylland 740 Silkeborg Kommune   8472 Sporup 56.20829 9.83021
+1082 Region Midtjylland 740 Silkeborg Kommune   8600 Silkeborg 56.17565 9.56611
+1082 Region Midtjylland 740 Silkeborg Kommune   8620 Kjellerup 56.28395 9.40123
+1082 Region Midtjylland 740 Silkeborg Kommune   8632 Lemming 56.24000 9.54685
+1082 Region Midtjylland 740 Silkeborg Kommune   8641 Sorring 56.17896 9.78878
+1082 Region Midtjylland 740 Silkeborg Kommune   8643 Ans By 56.29274 9.60761
+1082 Region Midtjylland 740 Silkeborg Kommune   8653 Them 56.08713 9.52870
+1082 Region Midtjylland 740 Silkeborg Kommune   8654 Bryrup 56.02587 9.50400
+1082 Region Midtjylland 740 Silkeborg Kommune   8680 Ry 56.09105 9.74053
+1082 Region Midtjylland 740 Silkeborg Kommune   8740 Brædstrup 55.98286 9.60655
+1082 Region Midtjylland 740 Silkeborg Kommune   8800 Viborg 56.42840 9.32550
+1082 Region Midtjylland 740 Silkeborg Kommune   8840 Rødkærsbro 56.34760 9.50975
+1082 Region Midtjylland 740 Silkeborg Kommune   8881 Thorsø 56.30907 9.77865
+1082 Region Midtjylland 740 Silkeborg Kommune   8882 Fårvang 56.27223 9.71170
+1082 Region Midtjylland 740 Silkeborg Kommune   8883 Gjern 56.22558 9.74047
+1082 Region Midtjylland 741 Samsø Kommune       8305 Samsø 55.85686 10.58829
+1082 Region Midtjylland 746 Skanderborg Kommune 8362 Hørning 56.08672 10.01962
+1082 Region Midtjylland 746 Skanderborg Kommune 8464 Galten 56.16455 9.92232
+1082 Region Midtjylland 746 Skanderborg Kommune 8471 Sabro 56.21631 10.00655
+1082 Region Midtjylland 746 Skanderborg Kommune 8472 Sporup 56.20829 9.83021
+1082 Region Midtjylland 746 Skanderborg Kommune 8600 Silkeborg 56.17565 9.56611
+1082 Region Midtjylland 746 Skanderborg Kommune 8660 Skanderborg 56.03748 9.88708
+1082 Region Midtjylland 746 Skanderborg Kommune 8670 Låsby 56.14960 9.80709
+1082 Region Midtjylland 746 Skanderborg Kommune 8680 Ry 56.09105 9.74053
+1082 Region Midtjylland 746 Skanderborg Kommune 8751 Gedved 55.94108 9.85287
+1082 Region Midtjylland 751 Århus Kommune       8000 Århus C 56.14830 10.20294
+1082 Region Midtjylland 751 Århus Kommune       8200 Århus N 56.20248 10.16888
+1082 Region Midtjylland 751 Århus Kommune       8210 Århus V 56.17269 10.15661
+1082 Region Midtjylland 751 Århus Kommune       8220 Brabrand 56.15912 10.08705
+1082 Region Midtjylland 751 Århus Kommune       8230 Åbyhøj 56.15103 10.15916
+1082 Region Midtjylland 751 Århus Kommune       8240 Risskov 56.19944 10.22725
+1082 Region Midtjylland 751 Århus Kommune       8245 Risskov Ø 56.183209252846474 10.22179126739502
+1082 Region Midtjylland 751 Århus Kommune             8250 Egå 56.22446 10.28495
+1082 Region Midtjylland 751 Århus Kommune             8260 Viby J 56.12898 10.10801
+1082 Region Midtjylland 751 Århus Kommune             8270 Højbjerg 56.10595 10.20138
+1082 Region Midtjylland 751 Århus Kommune             8300 Odder 55.94505 10.16210
+1082 Region Midtjylland 751 Århus Kommune             8310 Tranbjerg J 56.08563 10.12971
+1082 Region Midtjylland 751 Århus Kommune             8320 Mårslet 56.06935 10.16729
+1082 Region Midtjylland 751 Århus Kommune             8330 Beder 56.06171 10.23224
+1082 Region Midtjylland 751 Århus Kommune             8340 Malling 56.03111 10.19765
+1082 Region Midtjylland 751 Århus Kommune             8355 Solbjerg 56.03144 10.08704
+1082 Region Midtjylland 751 Århus Kommune             8361 Hasselager 56.10082 10.08787
+1082 Region Midtjylland 751 Århus Kommune             8362 Hørning 56.08672 10.01962
+1082 Region Midtjylland 751 Århus Kommune             8380 Trige 56.26317 10.15032
+1082 Region Midtjylland 751 Århus Kommune             8381 Tilst 56.18874 10.08278
+1082 Region Midtjylland 751 Århus Kommune             8382 Hinnerup 56.26389 10.04668
+1082 Region Midtjylland 751 Århus Kommune             8462 Harlev J 56.14559 10.00018
+1082 Region Midtjylland 751 Århus Kommune             8464 Galten 56.16455 9.92232
+1082 Region Midtjylland 751 Århus Kommune             8471 Sabro 56.21631 10.00655
+1082 Region Midtjylland 751 Århus Kommune             8520 Lystrup 56.23804 10.21755
+1082 Region Midtjylland 751 Århus Kommune             8530 Hjortshøj 56.27911 10.22924
+1082 Region Midtjylland 751 Århus Kommune             8541 Skødstrup 56.27522 10.31039
+1082 Region Midtjylland 751 Århus Kommune             8543 Hornslet 56.32678 10.27610
+1082 Region Midtjylland 751 Århus Kommune             8660 Skanderborg 56.03748 9.88708
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7160 Tørring 55.86957 9.50158
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7330 Brande 55.93222 9.08429
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7361 Ejstrupholm 56.00393 9.26530
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7362 Hampen 56.05206 9.37425
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7400 Herning 56.11404 8.97061
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7430 Ikast 56.12343 9.18400
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7441 Bording 56.16677 9.25801
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7442 Engesvang 56.19742 9.31407
+1082 Region Midtjylland 756 Ikast-Brande Kommune      7451 Sunds 56.23811 9.02869
+1082 Region Midtjylland 756 Ikast-Brande Kommune      8600 Silkeborg 56.17565 9.56611
+1082 Region Midtjylland 756 Ikast-Brande Kommune      8654 Bryrup 56.02587 9.50400
+1082 Region Midtjylland 756 Ikast-Brande Kommune      8765 Klovborg 55.92978 9.49405
+1082 Region Midtjylland 756 Ikast-Brande Kommune      8766 Nørre Snede 55.96833 9.41160
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6830 Nørre Nebel 55.77818 8.29271
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6870 Ølgod 55.79856 8.62672
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6880 Tarm 55.86707 8.58893
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6893 Hemmet 55.83880 8.37216
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6900 Skjern 55.97520 8.49789
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6920 Videbæk 56.07360 8.67968
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6933 Kibæk 55.99198 8.88089
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6940 Lem St 56.04180 8.41000
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6950 Ringkøbing 56.10248 8.28030
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6960 Hvide Sande 55.97427 8.17657
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6971 Spjald 56.13945 8.50029
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6973 Ørnhøj 56.20458 8.55563
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6980 Tim 56.19258 8.30370
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 6990 Ulfborg 56.26396 8.28618
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 7270 Stakroge 55.89726 8.84510
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 7280 Sønder Felding 55.94059 8.79483
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 7400 Herning 56.11404 8.97061
+1082 Region Midtjylland 760 Ringkøbing-Skjern Kommune 7480 Vildbjerg 56.17565 8.73542
+1082 Region Midtjylland 766 Hedensted Kommune         7100 Vejle 55.70331 9.50146
+1082 Region Midtjylland 766 Hedensted Kommune         7120 Vejle Øst 55.73139 9.63497
+1082 Region Midtjylland 766 Hedensted Kommune         7130 Juelsminde 55.74687 9.96674
+1082 Region Midtjylland 766 Hedensted Kommune         7140 Stouby 55.70993 9.79569
+1082 Region Midtjylland 766 Hedensted Kommune         7150 Barrit 55.70723 9.88465
+1082 Region Midtjylland 766 Hedensted Kommune         7160 Tørring 55.86957 9.50158
+1082 Region Midtjylland 766 Hedensted Kommune         7171 Uldum 55.83941 9.59222
+1082 Region Midtjylland 766 Hedensted Kommune         7173 Vonge 55.86499 9.41489
+1082 Region Midtjylland 766 Hedensted Kommune         7323 Give 55.85087 9.24001
+1082 Region Midtjylland 766 Hedensted Kommune         8700 Horsens 55.86630 9.87540
+1082 Region Midtjylland 766 Hedensted Kommune         8721 Daugård 55.72790 9.72212
+1082 Region Midtjylland 766 Hedensted Kommune         8722 Hedensted 55.76880 9.69714
+1082 Region Midtjylland 766 Hedensted Kommune         8723 Løsning 55.80918 9.69820
+1082 Region Midtjylland 766 Hedensted Kommune         8762 Flemming 55.87080 9.66497
+1082 Region Midtjylland 766 Hedensted Kommune         8763 Rask Mølle 55.88546 9.61266
+1082 Region Midtjylland 766 Hedensted Kommune         8766 Nørre Snede 55.96833 9.41160
+1082 Region Midtjylland 766 Hedensted Kommune         8781 Stenderup 55.79941 9.81179
+1082 Region Midtjylland 766 Hedensted Kommune         8783 Hornsyld 55.76583 9.84871
+1082 Region Midtjylland 779 Skive Kommune             7800 Skive 56.52474 8.98371
+1082 Region Midtjylland 779 Skive Kommune             7830 Vinderup 56.46919 8.81971
+1082 Region Midtjylland 779 Skive Kommune             7840 Højslev 56.57838 9.17342
+1082 Region Midtjylland 779 Skive Kommune             7860 Spøttrup 56.61743 8.84136
+1082 Region Midtjylland 779 Skive Kommune             7870 Roslev 56.72429 9.00812
+1082 Region Midtjylland 779 Skive Kommune             7884 Fur 56.82704 9.01403
+1082 Region Midtjylland 791 Viborg Kommune            7451 Sunds 56.23811 9.02869
+1082 Region Midtjylland 791 Viborg Kommune            7470 Karup J 56.32862 9.17938
+1082 Region Midtjylland 791 Viborg Kommune            7800 Skive 56.52474 8.98371
+1082 Region Midtjylland 791 Viborg Kommune            7840 Højslev 56.57838 9.17342
+1082 Region Midtjylland 791 Viborg Kommune            7850 Stoholm Jyll 56.48961 9.12190
+1082 Region Midtjylland 791 Viborg Kommune            8620 Kjellerup 56.28395 9.40123
+1082 Region Midtjylland 791 Viborg Kommune            8643 Ans By 56.29274 9.60761
+1082 Region Midtjylland 791 Viborg Kommune            8800 Viborg 56.42840 9.32550
+1082 Region Midtjylland 791 Viborg Kommune            8830 Tjele 56.51114 9.60744
+1082 Region Midtjylland 791 Viborg Kommune            8831 Løgstrup 56.51960 9.29967
+1082 Region Midtjylland 791 Viborg Kommune            8832 Skals 56.59763 9.37171
+1082 Region Midtjylland 791 Viborg Kommune            8840 Rødkærsbro 56.34760 9.50975
+1082 Region Midtjylland 791 Viborg Kommune            8850 Bjerringbro 56.38358 9.65260
+1082 Region Midtjylland 791 Viborg Kommune            8860 Ulstrup 56.38785 9.79013
+1082 Region Midtjylland 791 Viborg Kommune            9500 Hobro 56.65135 9.75988
+1082 Region Midtjylland 791 Viborg Kommune            9620 Aalestrup 56.68902 9.49408
+1082 Region Midtjylland 791 Viborg Kommune            9631 Gedsted 56.69385 9.36342
+1082 Region Midtjylland 791 Viborg Kommune            9632 Møldrup 56.60984 9.50602
+1083 Region Syddanmark  410 Middelfart Kommune        5463 Harndrup 55.45331 10.02743
+1083 Region Syddanmark  410 Middelfart Kommune        5464 Brenderup Fyn 55.49096 9.98230
+1083 Region Syddanmark  410 Middelfart Kommune        5466 Asperup 55.49461 9.89817
+1083 Region Syddanmark  410 Middelfart Kommune        5500 Middelfart 55.50290 9.78686
+1083 Region Syddanmark  410 Middelfart Kommune        5560 Aarup 55.37648 10.04249
+1083 Region Syddanmark  410 Middelfart Kommune        5580 Nørre Aaby 55.44628 9.84810
+1083 Region Syddanmark  410 Middelfart Kommune        5591 Gelsted 55.39307 9.94774
+1083 Region Syddanmark  410 Middelfart Kommune        5592 Ejby 55.40375 9.89384
+1083 Region Syddanmark  410 Middelfart Kommune        5610 Assens 55.29867 9.94037
+1083 Region Syddanmark 420 Assens Kommune          5492 Vissenbjerg 55.39308 10.13412
+1083 Region Syddanmark 420 Assens Kommune          5560 Aarup 55.37648 10.04249
+1083 Region Syddanmark 420 Assens Kommune          5610 Assens 55.29867 9.94037
+1083 Region Syddanmark 420 Assens Kommune          5620 Glamsbjerg 55.28221 10.08534
+1083 Region Syddanmark 420 Assens Kommune          5631 Ebberup 55.20546 9.98840
+1083 Region Syddanmark 420 Assens Kommune          5642 Millinge 55.14190 10.18220
+1083 Region Syddanmark 420 Assens Kommune          5683 Haarby 55.20595 10.10833
+1083 Region Syddanmark 420 Assens Kommune          5690 Tommerup 55.31531 10.20377
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5550 Langeskov 55.36180 10.58709
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5600 Faaborg 55.11799 10.27393
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5642 Millinge 55.14190 10.18220
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5672 Broby 55.23756 10.26415
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5750 Ringe 55.22746 10.44094
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5762 Vester Skerninge 55.07480 10.45365
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5771 Stenstrup 55.12926 10.51385
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5772 Kværndrup 55.18124 10.53824
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5792 Årslev 55.29867 10.42849
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5853 Ørbæk 55.25940 10.64949
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5854 Gislev 55.21215 10.60669
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5856 Ryslinge 55.23904 10.54510
+1083 Region Syddanmark 430 Faaborg-Midtfyn Kommune 5863 Ferritslev Fyn 55.31103 10.58370
+1083 Region Syddanmark 440 Kerteminde Kommune      5290 Marslev 55.40166 10.52380
+1083 Region Syddanmark 440 Kerteminde Kommune      5300 Kerteminde 55.44789 10.63696
+1083 Region Syddanmark 440 Kerteminde Kommune      5330 Munkebo 55.45281 10.53706
+1083 Region Syddanmark 440 Kerteminde Kommune      5350 Rynkeby 55.40259 10.61775
+1083 Region Syddanmark 440 Kerteminde Kommune      5370 Mesinge 55.50048 10.63829
+1083 Region Syddanmark 440 Kerteminde Kommune      5380 Dalby 55.51812 10.67366
+1083 Region Syddanmark 440 Kerteminde Kommune      5390 Martofte 55.56040 10.64650
+1083 Region Syddanmark 440 Kerteminde Kommune      5540 Ullerslev 55.36033 10.66679
+1083 Region Syddanmark 440 Kerteminde Kommune      5550 Langeskov 55.36180 10.58709
+1083 Region Syddanmark 440 Kerteminde Kommune      5863 Ferritslev Fyn 55.31103 10.58370
+1083 Region Syddanmark 450 Nyborg Kommune          5540 Ullerslev 55.36033 10.66679
+1083 Region Syddanmark 450 Nyborg Kommune          5550 Langeskov 55.36180 10.58709
+1083 Region Syddanmark 450 Nyborg Kommune          5800 Nyborg 55.32694 10.75770
+1083 Region Syddanmark 450 Nyborg Kommune          5853 Ørbæk 55.25940 10.64949
+1083 Region Syddanmark 450 Nyborg Kommune          5871 Frørup 55.23587 10.75235
+1083 Region Syddanmark 450 Nyborg Kommune          5874 Hesselager 55.17946 10.75583
+1083 Region Syddanmark 461 Odense Kommune          5000 Odense C 55.40731 10.39151
+1083 Region Syddanmark 461 Odense Kommune          5200 Odense V 55.39733 10.30418
+1083 Region Syddanmark 461 Odense Kommune          5210 Odense NV 55.42110 10.28911
+1083 Region Syddanmark 461 Odense Kommune          5220 Odense SØ 55.35517 10.48884
+1083 Region Syddanmark 461 Odense Kommune          5230 Odense M 55.37990 10.40317
+1083 Region Syddanmark 461 Odense Kommune          5240 Odense NØ 55.41303 10.45687
+1083 Region Syddanmark 461 Odense Kommune          5250 Odense SV 55.35531 10.30364
+1083 Region Syddanmark 461 Odense Kommune          5260 Odense S 55.33038 10.37218
+1083 Region Syddanmark 461 Odense Kommune          5270 Odense N 55.45052 10.35356
+1083 Region Syddanmark 461 Odense Kommune          5320 Agedrup 55.42950 10.48975
+1083 Region Syddanmark 461 Odense Kommune          5330 Munkebo 55.45281 10.53706
+1083 Region Syddanmark 461 Odense Kommune          5491 Blommenslyst 55.38679 10.23378
+1083 Region Syddanmark 461 Odense Kommune          5492 Vissenbjerg 55.39308 10.13412
+1083 Region Syddanmark 479 Svendborg Kommune       5700 Svendborg 55.03042 10.58640
+1083 Region Syddanmark 479 Svendborg Kommune       5762 Vester Skerninge 55.07480 10.45365
+1083 Region Syddanmark 479 Svendborg Kommune  5771 Stenstrup 55.12926 10.51385
+1083 Region Syddanmark 479 Svendborg Kommune  5772 Kværndrup 55.18124 10.53824
+1083 Region Syddanmark 479 Svendborg Kommune  5854 Gislev 55.21215 10.60669
+1083 Region Syddanmark 479 Svendborg Kommune  5874 Hesselager 55.17946 10.75583
+1083 Region Syddanmark 479 Svendborg Kommune  5881 Skårup Fyn 55.08571 10.69053
+1083 Region Syddanmark 479 Svendborg Kommune  5882 Vejstrup 55.11213 10.69471
+1083 Region Syddanmark 479 Svendborg Kommune  5883 Oure 55.12572 10.72980
+1083 Region Syddanmark 479 Svendborg Kommune  5884 Gudme 55.15351 10.70782
+1083 Region Syddanmark 479 Svendborg Kommune  5892 Gudbjerg Sydfyn 55.16008 10.64042
+1083 Region Syddanmark 480 Nordfyns Kommune   5270 Odense N 55.45052 10.35356
+1083 Region Syddanmark 480 Nordfyns Kommune   5400 Bogense 55.55570 10.14085
+1083 Region Syddanmark 480 Nordfyns Kommune   5450 Otterup 55.53765 10.38123
+1083 Region Syddanmark 480 Nordfyns Kommune   5462 Morud 55.43736 10.19608
+1083 Region Syddanmark 480 Nordfyns Kommune   5471 Søndersø 55.49364 10.16945
+1083 Region Syddanmark 480 Nordfyns Kommune   5474 Veflinge 55.45828 10.14126
+1083 Region Syddanmark 480 Nordfyns Kommune   5485 Skamby 55.52841 10.28034
+1083 Region Syddanmark 480 Nordfyns Kommune   5491 Blommenslyst 55.38679 10.23378
+1083 Region Syddanmark 480 Nordfyns Kommune   5492 Vissenbjerg 55.39308 10.13412
+1083 Region Syddanmark 480 Nordfyns Kommune   5560 Aarup 55.37648 10.04249
+1083 Region Syddanmark 482 Langeland Kommune  5900 Rudkøbing 54.89848 10.74244
+1083 Region Syddanmark 482 Langeland Kommune  5932 Humble 54.81339 10.70217
+1083 Region Syddanmark 482 Langeland Kommune  5935 Bagenkop 54.75365 10.70305
+1083 Region Syddanmark 482 Langeland Kommune  5953 Tranekær 55.03665 10.86918
+1083 Region Syddanmark 492 Ærø Kommune        5960 Marstal 54.86417 10.48866
+1083 Region Syddanmark 492 Ærø Kommune        5970 Ærøskøbing 54.86697 10.37925
+1083 Region Syddanmark 492 Ærø Kommune        5985 Søby Ærø 54.92920 10.26895
+1083 Region Syddanmark 510 Haderslev Kommune  6070 Christiansfeld 55.35672 9.44937
+1083 Region Syddanmark 510 Haderslev Kommune  6094 Hejls 55.38003 9.59138
+1083 Region Syddanmark 510 Haderslev Kommune  6100 Haderslev 55.24555 9.54958
+1083 Region Syddanmark 510 Haderslev Kommune  6500 Vojens 55.23369 9.28708
+1083 Region Syddanmark 510 Haderslev Kommune  6510 Gram 55.27889 9.00335
+1083 Region Syddanmark 510 Haderslev Kommune  6520 Toftlund 55.17960 9.02582
+1083 Region Syddanmark 510 Haderslev Kommune  6534 Agerskov 55.12822 9.17099
+1083 Region Syddanmark 510 Haderslev Kommune  6541 Bevtoft 55.19257 9.18660
+1083 Region Syddanmark 510 Haderslev Kommune  6560 Sommersted 55.32997 9.27352
+1083 Region Syddanmark 510 Haderslev Kommune  6630 Rødding 55.37307 9.09856
+1083 Region Syddanmark 530 Billund Kommune    6623 Vorbasse 55.64134 9.07727
+1083 Region Syddanmark 530 Billund Kommune    6682 Hovborg 55.60510 8.94850
+1083 Region Syddanmark 530 Billund Kommune    6823 Ansager 55.72429 8.74663
+1083 Region Syddanmark 530 Billund Kommune    7190 Billund 55.73928 9.09978
+1083 Region Syddanmark 530 Billund Kommune    7200 Grindsted 55.74478 8.89776
+1083 Region Syddanmark 530 Billund Kommune    7250 Hejnsvig 55.68142 8.97440
+1083 Region Syddanmark 530 Billund Kommune    7260 Sønder Omme 55.84675 8.89858
+1083 Region Syddanmark 530 Billund Kommune    7270 Stakroge 55.89726 8.84510
+1083 Region Syddanmark 540 Sønderborg Kommune 6300 Gråsten 54.92266 9.54380
+1083 Region Syddanmark 540 Sønderborg Kommune 6310 Broager 54.87540 9.69343
+1083 Region Syddanmark 540 Sønderborg Kommune 6320 Egernsund 54.90551 9.62193
+1083 Region Syddanmark 540 Sønderborg Kommune 6400 Sønderborg 54.94444 9.72655
+1083 Region Syddanmark 540 Sønderborg Kommune 6430 Nordborg 55.02800 9.78751
+1083 Region Syddanmark 540 Sønderborg Kommune 6440 Augustenborg 54.96862 9.93454
+1083 Region Syddanmark 540 Sønderborg Kommune 6470 Sydals 54.90528 9.96542
+1083 Region Syddanmark 550 Tønder Kommune     6240 Løgumkloster 55.05188 8.99141
+1083 Region Syddanmark 550 Tønder Kommune  6261 Bredebro 55.06250 8.75260
+1083 Region Syddanmark 550 Tønder Kommune  6270 Tønder 54.95217 8.89258
+1083 Region Syddanmark 550 Tønder Kommune  6280 Højer 54.97002 8.71179
+1083 Region Syddanmark 550 Tønder Kommune  6520 Toftlund 55.17960 9.02582
+1083 Region Syddanmark 550 Tønder Kommune  6534 Agerskov 55.12822 9.17099
+1083 Region Syddanmark 550 Tønder Kommune  6535 Branderup J 55.11461 9.06668
+1083 Region Syddanmark 550 Tønder Kommune  6541 Bevtoft 55.19257 9.18660
+1083 Region Syddanmark 550 Tønder Kommune  6780 Skærbæk 55.17013 8.79052
+1083 Region Syddanmark 550 Tønder Kommune  6792 Rømø 55.13776 8.52017
+1083 Region Syddanmark 561 Esbjerg Kommune 6670 Holsted 55.51322 8.91216
+1083 Region Syddanmark 561 Esbjerg Kommune 6683 Føvling 55.43835 8.91004
+1083 Region Syddanmark 561 Esbjerg Kommune 6690 Gørding 55.47346 8.81145
+1083 Region Syddanmark 561 Esbjerg Kommune 6700 Esbjerg 55.47135 8.45678
+1083 Region Syddanmark 561 Esbjerg Kommune 6705 Esbjerg Ø 55.49772 8.53603
+1083 Region Syddanmark 561 Esbjerg Kommune 6710 Esbjerg V 55.54358 8.37785
+1083 Region Syddanmark 561 Esbjerg Kommune 6715 Esbjerg N 55.54366 8.50530
+1083 Region Syddanmark 561 Esbjerg Kommune 6731 Tjæreborg 55.47023 8.58916
+1083 Region Syddanmark 561 Esbjerg Kommune 6740 Bramming 55.47826 8.70924
+1083 Region Syddanmark 561 Esbjerg Kommune 6760 Ribe 55.31275 8.78573
+1083 Region Syddanmark 561 Esbjerg Kommune 6771 Gredstedbro 55.40803 8.75546
+1083 Region Syddanmark 561 Esbjerg Kommune 6818 Årre 55.57338 8.67165
+1083 Region Syddanmark 563 Fanø Kommune    6720 Fanø 55.40917 8.41326
+1083 Region Syddanmark 573 Varde Kommune   6682 Hovborg 55.60510 8.94850
+1083 Region Syddanmark 573 Varde Kommune   6753 Agerbæk 55.61065 8.80490
+1083 Region Syddanmark 573 Varde Kommune   6800 Varde 55.66301 8.53512
+1083 Region Syddanmark 573 Varde Kommune   6818 Årre 55.57338 8.67165
+1083 Region Syddanmark 573 Varde Kommune   6823 Ansager 55.72429 8.74663
+1083 Region Syddanmark 573 Varde Kommune   6830 Nørre Nebel 55.77818 8.29271
+1083 Region Syddanmark 573 Varde Kommune   6840 Oksbøl 55.64535 8.22795
+1083 Region Syddanmark 573 Varde Kommune   6851 Janderup Vestj 55.64121 8.37724
+1083 Region Syddanmark 573 Varde Kommune   6852 Billum 55.61145 8.32576
+1083 Region Syddanmark 573 Varde Kommune   6853 Vejers Strand 55.61942 8.14125
+1083 Region Syddanmark 573 Varde Kommune   6854 Henne 55.71414 8.24210
+1083 Region Syddanmark 573 Varde Kommune   6855 Outrup 55.71027 8.37606
+1083 Region Syddanmark 573 Varde Kommune   6857 Blåvand 55.55423 8.18734
+1083 Region Syddanmark 573 Varde Kommune   6862 Tistrup 55.71701 8.63124
+1083 Region Syddanmark 573 Varde Kommune   6870 Ølgod 55.79856 8.62672
+1083 Region Syddanmark 573 Varde Kommune   6880 Tarm 55.86707 8.58893
+1083 Region Syddanmark 573 Varde Kommune   7200 Grindsted 55.74478 8.89776
+1083 Region Syddanmark 575 Vejen Kommune   6600 Vejen 55.50082 9.15799
+1083 Region Syddanmark 575 Vejen Kommune   6621 Gesten 55.53042 9.19792
+1083 Region Syddanmark 575 Vejen Kommune   6622 Bække 55.57663 9.15063
+1083 Region Syddanmark 575 Vejen Kommune   6623 Vorbasse 55.64134 9.07727
+1083 Region Syddanmark 575 Vejen Kommune   6630 Rødding 55.37307 9.09856
+1083 Region Syddanmark 575 Vejen Kommune   6650 Brørup 55.52633 9.01069
+1083 Region Syddanmark 575 Vejen Kommune   6660 Lintrup 55.40996 8.97907
+1083 Region Syddanmark 575 Vejen Kommune   6670 Holsted 55.51322 8.91216
+1083 Region Syddanmark 575 Vejen Kommune   6682 Hovborg 55.60510 8.94850
+1083 Region Syddanmark 575 Vejen Kommune   6683 Føvling 55.43835 8.91004
+1083 Region Syddanmark 575 Vejen Kommune   6690 Gørding 55.47346 8.81145
+1083 Region Syddanmark 575 Vejen Kommune   6752 Glejbjerg 55.56493 8.84829
+1083 Region Syddanmark 575 Vejen Kommune   6753 Agerbæk 55.61065 8.80490
+1083 Region Syddanmark  580 Aabenraa Kommune   6200 Aabenraa 55.00656 9.45901
+1083 Region Syddanmark  580 Aabenraa Kommune   6230 Rødekro 55.08612 9.29955
+1083 Region Syddanmark  580 Aabenraa Kommune   6330 Padborg 54.85867 9.32570
+1083 Region Syddanmark  580 Aabenraa Kommune   6340 Kruså 54.87213 9.44451
+1083 Region Syddanmark  580 Aabenraa Kommune   6360 Tinglev 54.92128 9.22577
+1083 Region Syddanmark  580 Aabenraa Kommune   6372 Bylderup-Bov 54.96415 9.10337
+1083 Region Syddanmark  580 Aabenraa Kommune   6392 Bolderslev 54.99039 9.24993
+1083 Region Syddanmark  580 Aabenraa Kommune   6534 Agerskov 55.12822 9.17099
+1083 Region Syddanmark  607 Fredericia Kommune 7000 Fredericia 55.58361 9.66075
+1083 Region Syddanmark  607 Fredericia Kommune 7007 Fredericia 56.14872 10.202132
+1083 Region Syddanmark  621 Kolding Kommune    6000 Kolding 55.49745 9.47563
+1083 Region Syddanmark  621 Kolding Kommune    6040 Egtved 55.60845 9.34329
+1083 Region Syddanmark  621 Kolding Kommune    6051 Almind 55.56092 9.48573
+1083 Region Syddanmark  621 Kolding Kommune    6052 Viuf 55.59537 9.49848
+1083 Region Syddanmark  621 Kolding Kommune    6064 Jordrup 55.54997 9.31443
+1083 Region Syddanmark  621 Kolding Kommune    6070 Christiansfeld 55.35672 9.44937
+1083 Region Syddanmark  621 Kolding Kommune    6091 Bjert 55.45412 9.56083
+1083 Region Syddanmark  621 Kolding Kommune    6092 Sønder Stenderup 55.46175 9.63538
+1083 Region Syddanmark  621 Kolding Kommune    6093 Sjølund 55.40360 9.54207
+1083 Region Syddanmark  621 Kolding Kommune    6094 Hejls 55.38003 9.59138
+1083 Region Syddanmark  621 Kolding Kommune    6100 Haderslev 55.24555 9.54958
+1083 Region Syddanmark  621 Kolding Kommune    6430 Nordborg 55.02800 9.78751
+1083 Region Syddanmark  621 Kolding Kommune    6560 Sommersted 55.32997 9.27352
+1083 Region Syddanmark  621 Kolding Kommune    6580 Vamdrup 55.41966 9.33145
+1083 Region Syddanmark  621 Kolding Kommune    6640 Lunderskov 55.49205 9.33377
+1083 Region Syddanmark  630 Vejle Kommune      6040 Egtved 55.60845 9.34329
+1083 Region Syddanmark  630 Vejle Kommune      6052 Viuf 55.59537 9.49848
+1083 Region Syddanmark  630 Vejle Kommune      6623 Vorbasse 55.64134 9.07727
+1083 Region Syddanmark  630 Vejle Kommune      7000 Fredericia 55.58361 9.66075
+1083 Region Syddanmark  630 Vejle Kommune      7080 Børkop 55.65244 9.66118
+1083 Region Syddanmark  630 Vejle Kommune      7100 Vejle 55.70331 9.50146
+1083 Region Syddanmark  630 Vejle Kommune      7120 Vejle Øst 55.73139 9.63497
+1083 Region Syddanmark  630 Vejle Kommune      7160 Tørring 55.86957 9.50158
+1083 Region Syddanmark  630 Vejle Kommune      7173 Vonge 55.86499 9.41489
+1083 Region Syddanmark  630 Vejle Kommune      7182 Bredsten 55.70542 9.35392
+1083 Region Syddanmark  630 Vejle Kommune      7183 Randbøl 55.67914 9.24330
+1083 Region Syddanmark  630 Vejle Kommune      7184 Vandel 55.71288 9.19096
+1083 Region Syddanmark  630 Vejle Kommune      7190 Billund 55.73928 9.09978
+1083 Region Syddanmark  630 Vejle Kommune      7200 Grindsted 55.74478 8.89776
+1083 Region Syddanmark  630 Vejle Kommune      7300 Jelling 55.77643 9.42940
+1083 Region Syddanmark  630 Vejle Kommune      7321 Gadbjerg 55.76640 9.29055
+1083 Region Syddanmark  630 Vejle Kommune      7323 Give 55.85087 9.24001
+1083 Region Syddanmark  630 Vejle Kommune      7330 Brande 55.93222 9.08429
+1083 Region Syddanmark  630 Vejle Kommune      7361 Ejstrupholm 56.00393 9.26530
+1084 Region Hovedstaden 101 Københavns Kommune  900 København C 55.68258093401054 12.603657245635986
+1084 Region Hovedstaden 101 Københavns Kommune  999 København C 55.682434 12.603667
+1084 Region Hovedstaden 101 Københavns Kommune 1000 København K 55.673934 12.608084
+1084 Region Hovedstaden 101 Københavns Kommune 1050 København K 55.68057 12.58598
+1084 Region Hovedstaden 101 Københavns Kommune 1051 København K 55.67985 12.59054
+1084 Region Hovedstaden 101 Københavns Kommune 1052 København K 55.67886 12.59041
+1084 Region Hovedstaden 101 Københavns Kommune 1053 København K 55.67801 12.59072
+1084 Region Hovedstaden 101 Københavns Kommune 1054 København K 55.67801 12.58888
+1084 Region Hovedstaden 101 Københavns Kommune 1055 København K 55.67834 12.58734
+1084 Region Hovedstaden 101 Københavns Kommune 1056 København K 55.67965 12.58776
+1084 Region Hovedstaden 101 Københavns Kommune 1057 København K 55.67858 12.58908
+1084 Region Hovedstaden 101 Københavns Kommune 1058 København K 55.67715 12.58886
+1084 Region Hovedstaden 101 Københavns Kommune 1059 København K 55.67628 12.58671
+1084 Region Hovedstaden 101 Københavns Kommune 1060 København K 55.67796 12.58536
+1084 Region Hovedstaden 101 Københavns Kommune 1061 København K 55.67724 12.58127
+1084 Region Hovedstaden 101 Københavns Kommune 1062 København K 55.67735 12.58196
+1084 Region Hovedstaden 101 Københavns Kommune 1063 København K 55.67803 12.58440
+1084 Region Hovedstaden 101 Københavns Kommune 1064 København K 55.67838 12.58418
+1084 Region Hovedstaden 101 Københavns Kommune 1065 København K 55.67788 12.58115
+1084 Region Hovedstaden 101 Københavns Kommune 1066 København K 55.67749 12.58222
+1084 Region Hovedstaden 101 Københavns Kommune 1067 København K 55.67877 12.58162
+1084 Region Hovedstaden 101 Københavns Kommune 1068 København K 55.67767 12.58291
+1084 Region Hovedstaden 101 Københavns Kommune 1069 København K 55.67791 12.58362
+1084 Region Hovedstaden 101 Københavns Kommune 1070 København K 55.67871 12.58374
+1084 Region Hovedstaden 101 Københavns Kommune 1071 København K 55.67805 12.58298
+1084 Region Hovedstaden 101 Københavns Kommune 1072 København K 55.67836 12.58063
+1084 Region Hovedstaden 101 Københavns Kommune 1073 København K 55.67873 12.58046
+1084 Region Hovedstaden 101 Københavns Kommune 1074 København K 55.67934 12.58385
+1084 Region Hovedstaden 101 Københavns Kommune 1092 København K 55.681761 12.604602
+1084 Region Hovedstaden 101 Københavns Kommune 1093 København K 55.68161313437771 12.604601383209229
+1084 Region Hovedstaden 101 Københavns Kommune 1095 København K 55.68175830584934 12.604601383209229
+1084 Region Hovedstaden 101 Københavns Kommune 1098 København K 55.68751 12.59760
+1084 Region Hovedstaden 101 Københavns Kommune 1100 København K 55.67968 12.58259
+1084 Region Hovedstaden 101 Københavns Kommune 1101 København K 55.68127 12.58250
+1084 Region Hovedstaden 101 Københavns Kommune 1102 København K 55.68048 12.58267
+1084 Region Hovedstaden 101 Københavns Kommune 1103 København K 55.68066 12.58410
+1084 Region Hovedstaden 101 Københavns Kommune 1104 København K 55.68119 12.58400
+1084 Region Hovedstaden 101 Københavns Kommune 1105 København K 55.68018 12.58225
+1084 Region Hovedstaden 101 Københavns Kommune 1106 København K 55.68012 12.58151
+1084 Region Hovedstaden 101 Københavns Kommune 1107 København K 55.68133 12.58293
+1084 Region Hovedstaden 101 Københavns Kommune 1110 København K 55.68160 12.58222
+1084 Region Hovedstaden 101 Københavns Kommune 1111 København K 55.68214 12.58091
+1084 Region Hovedstaden 101 Københavns Kommune 1112 København K 55.68126 12.57906
+1084 Region Hovedstaden 101 Københavns Kommune 1113 København K 55.67975 12.58009
+1084 Region Hovedstaden 101 Københavns Kommune 1114 København K 55.68048 12.57949
+1084 Region Hovedstaden 101 Københavns Kommune 1115 København K 55.68098 12.57855
+1084 Region Hovedstaden 101 Københavns Kommune 1116 København K 55.68200 12.57980
+1084 Region Hovedstaden 101 Københavns Kommune 1117 København K 55.68115 12.58098
+1084 Region Hovedstaden 101 Københavns Kommune 1118 København K 55.68112 12.58074
+1084 Region Hovedstaden 101 Københavns Kommune 1119 København K 55.68200 12.57726
+1084 Region Hovedstaden 101 Københavns Kommune 1120 København K 55.68241 12.57866
+1084 Region Hovedstaden 101 Københavns Kommune 1122 København K 55.68258 12.57973
+1084 Region Hovedstaden 101 Københavns Kommune 1123 København K 55.68422 12.57553
+1084 Region Hovedstaden 101 Københavns Kommune 1124 København K 55.68333 12.57620
+1084 Region Hovedstaden 101 Københavns Kommune 1125 København K 55.68259 12.57647
+1084 Region Hovedstaden 101 Københavns Kommune 1126 København K 55.68221 12.57529
+1084 Region Hovedstaden 101 Københavns Kommune 1127 København K 55.68281 12.57558
+1084 Region Hovedstaden 101 Københavns Kommune 1128 København K 55.68283 12.57475
+1084 Region Hovedstaden 101 Københavns Kommune 1129 København K 55.68321 12.57460
+1084 Region Hovedstaden 101 Københavns Kommune 1130 København K 55.68354 12.57433
+1084 Region Hovedstaden 101 Københavns Kommune 1131 København K 55.68395 12.57393
+1084 Region Hovedstaden 101 Københavns Kommune 1140 København K 55.68176, 12.604602
+1084 Region Hovedstaden 101 Københavns Kommune 1147 København 55.680847 12.580362
+1084 Region Hovedstaden 101 Københavns Kommune 1148 København K 55.682657 12.577648
+1084 Region Hovedstaden 101 Københavns Kommune 1150 København K 55.68080 12.57706
+1084 Region Hovedstaden 101 Københavns Kommune 1151 København K 55.67956 12.57700
+1084 Region Hovedstaden 101 Københavns Kommune 1152 København K 55.68047 12.57672
+1084 Region Hovedstaden 101 Københavns Kommune 1153 København K 55.67955 12.57774
+1084 Region Hovedstaden 101 Københavns Kommune 1154 København K 55.67982 12.57605
+1084 Region Hovedstaden 101 Københavns Kommune 1155 København K 55.67988 12.57540
+1084 Region Hovedstaden 101 Københavns Kommune 1156 København K 55.67953 12.57575
+1084 Region Hovedstaden 101 Københavns Kommune 1157 København K 55.67911 12.57533
+1084 Region Hovedstaden 101 Københavns Kommune 1158 København K 55.67866 12.57370
+1084 Region Hovedstaden 101 Københavns Kommune 1159 København K 55.67948 12.57441
+1084 Region Hovedstaden 101 Københavns Kommune 1160 København K 55.67873 12.57781
+1084 Region Hovedstaden 101 Københavns Kommune 1161 København K 55.67860 12.57504
+1084 Region Hovedstaden 101 Københavns Kommune 1162 København K 55.67887 12.57419
+1084 Region Hovedstaden 101 Københavns Kommune 1164 København K 55.67826 12.57323
+1084 Region Hovedstaden 101 Københavns Kommune 1165 København K 55.68072 12.57170
+1084 Region Hovedstaden 101 Københavns Kommune 1166 København K 55.67919 12.57280
+1084 Region Hovedstaden 101 Københavns Kommune 1167 København K 55.67854 12.57094
+1084 Region Hovedstaden 101 Københavns Kommune 1168 København K 55.67963 12.57262
+1084 Region Hovedstaden 101 Københavns Kommune 1169 København K 55.68061 12.57435
+1084 Region Hovedstaden 101 Københavns Kommune 1170 København K 55.68022 12.57476
+1084 Region Hovedstaden 101 Københavns Kommune 1171 København K 55.68117 12.57264
+1084 Region Hovedstaden 101 Københavns Kommune 1172 København K 55.68120 12.57322
+1084 Region Hovedstaden 101 Københavns Kommune 1173 København K 55.68171 12.57398
+1084 Region Hovedstaden 101 Københavns Kommune 1174 København K 55.68230 12.57307
+1084 Region Hovedstaden 101 Københavns Kommune 1175 København K 55.68265 12.57398
+1084 Region Hovedstaden 101 Københavns Kommune 1200 København K 55.67827 12.57982
+1084 Region Hovedstaden 101 Københavns Kommune 1201 København K 55.67823 12.57792
+1084 Region Hovedstaden 101 Københavns Kommune 1202 København K 55.67766 12.57853
+1084 Region Hovedstaden 101 Københavns Kommune 1203 København K 55.67641 12.57640
+1084 Region Hovedstaden 101 Københavns Kommune 1204 København K 55.67650 12.57538
+1084 Region Hovedstaden 101 Københavns Kommune 1205 København K 55.67706 12.57670
+1084 Region Hovedstaden 101 Københavns Kommune 1206 København K 55.67756 12.57712
+1084 Region Hovedstaden 101 Københavns Kommune 1207 København K 55.67815 12.57624
+1084 Region Hovedstaden 101 Københavns Kommune 1208 København K 55.67702 12.57536
+1084 Region Hovedstaden 101 Københavns Kommune 1209 København K 55.67807 12.57521
+1084 Region Hovedstaden 101 Københavns Kommune 1210 København K 55.67750 12.57497
+1084 Region Hovedstaden 101 Københavns Kommune 1211 København K 55.67744 12.57483
+1084 Region Hovedstaden 101 Københavns Kommune 1213 København K 55.67656 12.57840
+1084 Region Hovedstaden 101 Københavns Kommune 1214 København K 55.67470 12.57897
+1084 Region Hovedstaden 101 Københavns Kommune 1215 København K 55.67591 12.58445
+1084 Region Hovedstaden 101 Københavns Kommune 1216 København K 55.67528 12.58381
+1084 Region Hovedstaden 101 Københavns Kommune 1217 København K 55.67540 12.58461
+1084 Region Hovedstaden 101 Københavns Kommune 1218 København K 55.67565 12.57917
+1084 Region Hovedstaden 101 Københavns Kommune 1219 København K 55.67389 12.58177
+1084 Region Hovedstaden 101 Københavns Kommune 1220 København K 55.67377 12.57800
+1084 Region Hovedstaden 101 Københavns Kommune 1221 København K 55.673189 12.582155
+1084 Region Hovedstaden 101 Københavns Kommune 1240 København K 55.67638055289196 12.58082628250122
+1084 Region Hovedstaden 101 Københavns Kommune 1250 København K 55.68329 12.59365
+1084 Region Hovedstaden 101 Københavns Kommune 1251 København K 55.68014 12.59346
+1084 Region Hovedstaden 101 Københavns Kommune 1253 København K 55.68391 12.59467
+1084 Region Hovedstaden 101 Københavns Kommune 1254 København K 55.68087 12.59070
+1084 Region Hovedstaden 101 Københavns Kommune 1255 København K 55.68135 12.58899
+1084 Region Hovedstaden 101 Københavns Kommune 1256 København K 55.68446 12.59379
+1084 Region Hovedstaden 101 Københavns Kommune 1257 København K 55.68428057415345 12.592638731002808
+1084 Region Hovedstaden 101 Københavns Kommune 1259 København K 55.68954 12.59774
+1084 Region Hovedstaden 101 Københavns Kommune 1260 København K 55.68477 12.59176
+1084 Region Hovedstaden 101 Københavns Kommune 1261 København K 55.68170 12.58681
+1084 Region Hovedstaden 101 Københavns Kommune 1263 København K 55.68821 12.59600
+1084 Region Hovedstaden 101 Københavns Kommune 1264 København K 55.68615 12.58932
+1084 Region Hovedstaden 101 Københavns Kommune 1265 København K 55.68459 12.59049
+1084 Region Hovedstaden 101 Københavns Kommune 1266 København K 55.68797 12.59121
+1084 Region Hovedstaden 101 Københavns Kommune 1267 København K 55.68852 12.59062
+1084 Region Hovedstaden 101 Københavns Kommune 1268 København K 55.68906 12.59024
+1084 Region Hovedstaden 101 Københavns Kommune 1270 København K 55.68951 12.59282
+1084 Region Hovedstaden 101 Københavns Kommune 1271 København K 55.68981 12.58957
+1084 Region Hovedstaden 101 Københavns Kommune 1291 København K 55.680753 12.593634
+1084 Region Hovedstaden 101 Københavns Kommune 1300 København K 55.68471 12.58595
+1084 Region Hovedstaden 101 Københavns Kommune 1301 København K 55.68287 12.58555
+1084 Region Hovedstaden 101 Københavns Kommune 1302 København K 55.68431 12.58653
+1084 Region Hovedstaden 101 Københavns Kommune 1303 København K 55.68604 12.58821
+1084 Region Hovedstaden 101 Københavns Kommune 1304 København K 55.68425 12.58425
+1084 Region Hovedstaden 101 Københavns Kommune 1306 København K 55.68510 12.58294
+1084 Region Hovedstaden 101 Københavns Kommune 1307 København K 55.68788 12.57832
+1084 Region Hovedstaden 101 Københavns Kommune 1308 København K 55.68647 12.58534
+1084 Region Hovedstaden 101 Københavns Kommune 1309 København K 55.68724 12.58362
+1084 Region Hovedstaden 101 Københavns Kommune 1310 København K 55.68608 12.58995
+1084 Region Hovedstaden 101 Københavns Kommune 1311 København K 55.68722 12.58647
+1084 Region Hovedstaden 101 Københavns Kommune 1312 København K 55.68742 12.58577
+1084 Region Hovedstaden 101 Københavns Kommune 1313 København K 55.68758 12.58688
+1084 Region Hovedstaden 101 Københavns Kommune 1314 København K 55.68772 12.58680
+1084 Region Hovedstaden 101 Københavns Kommune 1315 København K 55.68763 12.58789
+1084 Region Hovedstaden 101 Københavns Kommune 1316 København K 55.68757 12.58301
+1084 Region Hovedstaden 101 Københavns Kommune 1317 København K 55.68906 12.58285
+1084 Region Hovedstaden 101 Københavns Kommune 1318 København K 55.68851 12.58462
+1084 Region Hovedstaden 101 Københavns Kommune 1319 København K 55.68822 12.58672
+1084 Region Hovedstaden 101 Københavns Kommune 1320 København K 55.68843 12.58739
+1084 Region Hovedstaden 101 Københavns Kommune 1321 København K 55.68785 12.58946
+1084 Region Hovedstaden 101 Københavns Kommune 1322 København K 55.68883 12.58736
+1084 Region Hovedstaden 101 Københavns Kommune 1323 København K 55.68969 12.58570
+1084 Region Hovedstaden 101 Københavns Kommune 1324 København K 55.68905 12.58792
+1084 Region Hovedstaden 101 Københavns Kommune 1325 København K 55.68948 12.58768
+1084 Region Hovedstaden 101 Københavns Kommune 1326 København K 55.68984 12.58769
+1084 Region Hovedstaden 101 Københavns Kommune 1327 København K 55.69028 12.58739
+1084 Region Hovedstaden 101 Københavns Kommune 1328 København K 55.69024 12.58822
+1084 Region Hovedstaden 101 Københavns Kommune 1329 København K 55.68910 12.58510
+1084 Region Hovedstaden 101 Københavns Kommune 1349 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1350 København K 55.68829 12.58063
+1084 Region Hovedstaden 101 Københavns Kommune 1352 København K 55.68973 12.57235
+1084 Region Hovedstaden 101 Københavns Kommune 1353 København K 55.68702 12.57375
+1084 Region Hovedstaden 101 Københavns Kommune 1354 København K 55.68943 12.57178
+1084 Region Hovedstaden 101 Københavns Kommune 1355 København K 55.68896 12.57142
+1084 Region Hovedstaden 101 Københavns Kommune 1356 København K 55.68690 12.56742
+1084 Region Hovedstaden 101 Københavns Kommune 1357 København K 55.68837 12.56869
+1084 Region Hovedstaden 101 Københavns Kommune 1358 København K 55.68157 12.56823
+1084 Region Hovedstaden 101 Københavns Kommune 1359 København K 55.68314 12.56552
+1084 Region Hovedstaden 101 Københavns Kommune 1360 København K 55.68507 12.56789
+1084 Region Hovedstaden 101 Københavns Kommune 1361 København K 55.68344 12.57003
+1084 Region Hovedstaden 101 Københavns Kommune 1362 København K 55.68390 12.56884
+1084 Region Hovedstaden 101 Københavns Kommune 1363 København K 55.68411 12.56755
+1084 Region Hovedstaden 101 Københavns Kommune 1364 København K 55.68303 12.56621
+1084 Region Hovedstaden 101 Københavns Kommune 1365 København K 55.68220 12.56456
+1084 Region Hovedstaden 101 Københavns Kommune 1366 København K 55.68332 12.56491
+1084 Region Hovedstaden 101 Københavns Kommune 1367 København K 55.68286 12.56313
+1084 Region Hovedstaden 101 Københavns Kommune 1368 København K 55.68178 12.56259
+1084 Region Hovedstaden 101 Københavns Kommune 1369 København K 55.68098 12.56207
+1084 Region Hovedstaden 101 Københavns Kommune 1370 København K 55.68391 12.56276
+1084 Region Hovedstaden 101 Københavns Kommune 1371 København K 55.68562 12.56569
+1084 Region Hovedstaden 101 Københavns Kommune 1400 København K 55.67168 12.59233
+1084 Region Hovedstaden 101 Københavns Kommune 1401 København K 55.67598 12.59330
+1084 Region Hovedstaden 101 Københavns Kommune 1402 København K 55.67285 12.58692
+1084 Region Hovedstaden 101 Københavns Kommune 1403 København K 55.67564 12.59425
+1084 Region Hovedstaden 101 Københavns Kommune 1406 København K 55.67514 12.59303
+1084 Region Hovedstaden 101 Københavns Kommune 1407 København K 55.67374 12.59531
+1084 Region Hovedstaden 101 Københavns Kommune 1408 København K 55.67325 12.59011
+1084 Region Hovedstaden 101 Københavns Kommune 1409 København K 55.67383 12.58780
+1084 Region Hovedstaden 101 Københavns Kommune 1410 København K 55.67180 12.59093
+1084 Region Hovedstaden 101 Københavns Kommune 1411 København K 55.67086 12.58340
+1084 Region Hovedstaden 101 Københavns Kommune 1412 København K 55.67082 12.58590
+1084 Region Hovedstaden 101 Københavns Kommune 1413 København K 55.67052 12.58698
+1084 Region Hovedstaden 101 Københavns Kommune 1414 København K 55.67261 12.59035
+1084 Region Hovedstaden 101 Københavns Kommune 1415 København K 55.67459 12.59448
+1084 Region Hovedstaden 101 Københavns Kommune 1416 København K 55.67347 12.59230
+1084 Region Hovedstaden 101 Københavns Kommune 1417 København K 55.67270 12.59232
+1084 Region Hovedstaden 101 Københavns Kommune 1418 København K 55.67095 12.59089
+1084 Region Hovedstaden 101 Københavns Kommune 1419 København K 55.67052 12.58885
+1084 Region Hovedstaden 101 Københavns Kommune 1420 København K 55.67207 12.59178
+1084 Region Hovedstaden 101 Københavns Kommune 1421 København K 55.67026 12.58839
+1084 Region Hovedstaden 101 Københavns Kommune 1422 København K 55.67535 12.59686
+1084 Region Hovedstaden 101 Københavns Kommune 1423 København K 55.67089 12.59258
+1084 Region Hovedstaden 101 Københavns Kommune 1424 København K 55.67051 12.59215
+1084 Region Hovedstaden 101 Københavns Kommune 1425 København K 55.67177 12.59411
+1084 Region Hovedstaden 101 Københavns Kommune 1426 København K 55.67242 12.59619
+1084 Region Hovedstaden 101 Københavns Kommune 1427 København K 55.67518 12.59699
+1084 Region Hovedstaden 101 Københavns Kommune 1428 København K 55.67588 12.59796
+1084 Region Hovedstaden 101 Københavns Kommune 1429 København K 55.67549 12.59871
+1084 Region Hovedstaden 101 Københavns Kommune 1430 København K 55.67626 12.59933
+1084 Region Hovedstaden 101 Københavns Kommune 1431 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1432 København K 55.69125 12.61416
+1084 Region Hovedstaden 101 Københavns Kommune 1433 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1434 København K 55.68048 12.60402
+1084 Region Hovedstaden 101 Københavns Kommune 1435 København K 55.68099 12.60480
+1084 Region Hovedstaden 101 Københavns Kommune 1436 København K 55.67686 12.60326
+1084 Region Hovedstaden 101 Københavns Kommune 1437 København K 55.68071 12.60586
+1084 Region Hovedstaden 101 Københavns Kommune 1438 København K 55.68170 12.60090
+1084 Region Hovedstaden 101 Københavns Kommune 1439 København K 55.68671 12.60757
+1084 Region Hovedstaden 101 Københavns Kommune 1440 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1441 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1448 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1450 København K 55.67769 12.57353
+1084 Region Hovedstaden 101 Københavns Kommune 1451 København K 55.68057 12.56979
+1084 Region Hovedstaden 101 Københavns Kommune 1452 København K 55.67940 12.56760
+1084 Region Hovedstaden 101 Københavns Kommune 1453 København K 55.67917 12.56894
+1084 Region Hovedstaden 101 Københavns Kommune 1454 København K 55.67832 12.56944
+1084 Region Hovedstaden 101 Københavns Kommune 1455 København K 55.67865 12.56915
+1084 Region Hovedstaden 101 Københavns Kommune 1456 København K 55.67750 12.57001
+1084 Region Hovedstaden 101 Københavns Kommune 1457 København K 55.67823 12.57212
+1084 Region Hovedstaden 101 Københavns Kommune 1458 København K 55.67716 12.57126
+1084 Region Hovedstaden 101 Københavns Kommune 1459 København K 55.67724 12.57084
+1084 Region Hovedstaden 101 Københavns Kommune 1460 København K 55.67659 12.57112
+1084 Region Hovedstaden 101 Københavns Kommune 1462 København K 55.67623 12.57161
+1084 Region Hovedstaden 101 Københavns Kommune 1463 København K 55.67595 12.57214
+1084 Region Hovedstaden 101 Københavns Kommune 1464 København K 55.67643 12.57282
+1084 Region Hovedstaden 101 Københavns Kommune 1466 København K 55.67676 12.57387
+1084 Region Hovedstaden 101 Københavns Kommune 1467 København K 55.67606 12.57426
+1084 Region Hovedstaden 101 Københavns Kommune 1468 København K 55.67551 12.57273
+1084 Region Hovedstaden 101 Københavns Kommune 1470 København K 55.67512 12.57414
+1084 Region Hovedstaden 101 Københavns Kommune 1471 København K 55.67449 12.57510
+1084 Region Hovedstaden 101 Københavns Kommune 1472 København K 55.67388 12.57607
+1084 Region Hovedstaden 101 Københavns Kommune 1500 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1550 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune 1551 København V 55.67876 12.56603
+1084 Region Hovedstaden 101 Københavns Kommune 1552 København V 55.67500 12.57268
+1084 Region Hovedstaden 101 Københavns Kommune 1553 København V 55.67480 12.57047
+1084 Region Hovedstaden 101 Københavns Kommune 1554 København V 55.67743 12.56595
+1084 Region Hovedstaden 101 Københavns Kommune 1555 København V 55.67400 12.57265
+1084 Region Hovedstaden 101 Københavns Kommune 1556 København V 55.67356 12.57366
+1084 Region Hovedstaden 101 Københavns Kommune 1557 København V 55.67287 12.57503
+1084 Region Hovedstaden 101 Københavns Kommune 1558 København V 55.67180 12.57711
+1084 Region Hovedstaden 101 Københavns Kommune 1559 København V 55.67131 12.57813
+1084 Region Hovedstaden 101 Københavns Kommune 1560 København V 55.66756 12.56857
+1084 Region Hovedstaden 101 Københavns Kommune 1561 København V 55.66182 12.56238
+1084 Region Hovedstaden 101 Københavns Kommune 1562 København V 55.67045 12.57348
+1084 Region Hovedstaden 101 Københavns Kommune 1563 København V 55.67084 12.57377
+1084 Region Hovedstaden 101 Københavns Kommune 1564 København V 55.67188 12.57549
+1084 Region Hovedstaden 101 Københavns Kommune 1566 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1567 København V 55.66987 12.57067
+1084 Region Hovedstaden 101 Københavns Kommune 1568 København V 55.66991 12.57148
+1084 Region Hovedstaden 101 Københavns Kommune 1569 København V 55.67123 12.57089
+1084 Region Hovedstaden 101 Københavns Kommune 1570 København V 55.67364 12.56387
+1084 Region Hovedstaden 101 Københavns Kommune 1571 København V 55.67106 12.57271
+1084 Region Hovedstaden 101 Københavns Kommune 1572 København V 55.67145 12.57310
+1084 Region Hovedstaden 101 Københavns Kommune 1573 København V 55.67156 12.57462
+1084 Region Hovedstaden 101 Københavns Kommune 1574 København V 55.67113 12.57205
+1084 Region Hovedstaden 101 Københavns Kommune 1575 København V 55.67238 12.57169
+1084 Region Hovedstaden 101 Københavns Kommune 1576 København V 55.67106 12.57022
+1084 Region Hovedstaden 101 Københavns Kommune 1577 København V 55.67095 12.56843
+1084 Region Hovedstaden 101 Københavns Kommune 1592 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1599 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1600 København V 55.68082 12.56074
+1084 Region Hovedstaden 101 Københavns Kommune 1601 København V 55.67791 12.55884
+1084 Region Hovedstaden 101 Københavns Kommune 1602 København V 55.67771 12.56056
+1084 Region Hovedstaden 101 Københavns Kommune 1603 København V 55.67947 12.56235
+1084 Region Hovedstaden 101 Københavns Kommune 1604 København V 55.67768 12.56033
+1084 Region Hovedstaden 101 Københavns Kommune 1606 København V 55.67683 12.56191
+1084 Region Hovedstaden 101 Københavns Kommune 1607 København V 55.67847 12.56337
+1084 Region Hovedstaden 101 Københavns Kommune 1608 København V 55.67625 12.56626
+1084 Region Hovedstaden 101 Københavns Kommune 1609 København V 55.67664 12.56466
+1084 Region Hovedstaden 101 Københavns Kommune 1610 København V 55.67406 12.55762
+1084 Region Hovedstaden 101 Københavns Kommune 1611 København V 55.67609 12.56399
+1084 Region Hovedstaden 101 Københavns Kommune 1612 København V 55.67520 12.56182
+1084 Region Hovedstaden 101 Københavns Kommune 1613 København V 55.67443 12.56139
+1084 Region Hovedstaden 101 Københavns Kommune 1614 København V 55.67405 12.56069
+1084 Region Hovedstaden 101 Københavns Kommune 1615 København V 55.67377 12.55940
+1084 Region Hovedstaden 101 Københavns Kommune 1616 København V 55.67329 12.55704
+1084 Region Hovedstaden 101 Københavns Kommune 1617 København V 55.67299 12.55453
+1084 Region Hovedstaden 101 Københavns Kommune 1618 København V 55.67353 12.55082
+1084 Region Hovedstaden 101 Københavns Kommune 1619 København V 55.67363 12.55034
+1084 Region Hovedstaden 101 Københavns Kommune 1620 København V 55.67284 12.55403
+1084 Region Hovedstaden 101 Københavns Kommune 1621 København V 55.67319 12.54976
+1084 Region Hovedstaden 101 Københavns Kommune 1622 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1623 København V 55.67187 12.54531
+1084 Region Hovedstaden 101 Københavns Kommune 1624 København V 55.67210 12.54602
+1084 Region Hovedstaden 101 Københavns Kommune 1630 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1631 København V 55.68246 12.55540
+1084 Region Hovedstaden 101 Københavns Kommune 1632 København V 55.68304 12.55542
+1084 Region Hovedstaden 101 Københavns Kommune 1633 København V 55.68220 12.55609
+1084 Region Hovedstaden 101 Københavns Kommune 1634 København V 55.68126 12.55651
+1084 Region Hovedstaden 101 Københavns Kommune 1635 København V 55.68281 12.55654
+1084 Region Hovedstaden 101 Københavns Kommune 1640 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1650 København V 55.66977 12.55503
+1084 Region Hovedstaden 101 Københavns Kommune 1651 København V 55.67226 12.56468
+1084 Region Hovedstaden 101 Københavns Kommune 1652 København V 55.67226 12.56244
+1084 Region Hovedstaden 101 Københavns Kommune 1653 København V 55.67211 12.56090
+1084 Region Hovedstaden 101 Københavns Kommune 1654 København V 55.67126 12.55996
+1084 Region Hovedstaden 101 Københavns Kommune 1655 København V 55.67163 12.55865
+1084 Region Hovedstaden 101 Københavns Kommune 1656 København V 55.67089 12.55725
+1084 Region Hovedstaden 101 Københavns Kommune 1657 København V 55.67049 12.55594
+1084 Region Hovedstaden 101 Københavns Kommune 1658 København V 55.66996 12.55518
+1084 Region Hovedstaden 101 Københavns Kommune 1659 København V 55.67197 12.55441
+1084 Region Hovedstaden 101 Københavns Kommune 1660 København V 55.67012 12.55321
+1084 Region Hovedstaden 101 Københavns Kommune 1661 København V 55.67140 12.55185
+1084 Region Hovedstaden 101 Københavns Kommune 1662 København V 55.66986 12.55093
+1084 Region Hovedstaden 101 Københavns Kommune 1663 København V 55.66939 12.55008
+1084 Region Hovedstaden 101 Københavns Kommune 1664 København V 55.67215 12.54927
+1084 Region Hovedstaden 101 Københavns Kommune 1665 København V 55.66930 12.54899
+1084 Region Hovedstaden 101 Københavns Kommune 1666 København V 55.66993 12.54869
+1084 Region Hovedstaden 101 Københavns Kommune 1667 København V 55.66925 12.54713
+1084 Region Hovedstaden 101 Københavns Kommune 1668 København V 55.66849 12.54807
+1084 Region Hovedstaden 101 Københavns Kommune 1669 København V 55.66721 12.54747
+1084 Region Hovedstaden 101 Københavns Kommune 1670 København V 55.66706 12.54595
+1084 Region Hovedstaden 101 Københavns Kommune 1671 København V 55.66709 12.54601
+1084 Region Hovedstaden 101 Københavns Kommune 1672 København V 55.66860 12.54646
+1084 Region Hovedstaden 101 Københavns Kommune 1673 København V 55.66799 12.54657
+1084 Region Hovedstaden 101 Københavns Kommune 1674 København V 55.66825 12.54469
+1084 Region Hovedstaden 101 Københavns Kommune 1675 København V 55.66656 12.54685
+1084 Region Hovedstaden 101 Københavns Kommune 1676 København V 55.66613 12.54846
+1084 Region Hovedstaden 101 Københavns Kommune 1677 København V 55.66600 12.54703
+1084 Region Hovedstaden 101 Københavns Kommune 1699 København V 55.66875 12.56181
+1084 Region Hovedstaden 101 Københavns Kommune 1700 København V 55.66982 12.55950
+1084 Region Hovedstaden 101 Københavns Kommune 1701 København V 55.67194 12.56317
+1084 Region Hovedstaden 101 Københavns Kommune 1702 København V 55.67149 12.56357
+1084 Region Hovedstaden 101 Københavns Kommune 1703 København V 55.67060 12.56278
+1084 Region Hovedstaden 101 Københavns Kommune 1704 København V 55.67258 12.56800
+1084 Region Hovedstaden 101 Københavns Kommune 1705 København V 55.66574 12.55996
+1084 Region Hovedstaden 101 Københavns Kommune 1706 København V 55.67081 12.55992
+1084 Region Hovedstaden 101 Københavns Kommune 1707 København V 55.67183 12.56054
+1084 Region Hovedstaden 101 Københavns Kommune 1708 København V 55.66969 12.55749
+1084 Region Hovedstaden 101 Københavns Kommune 1709 København V 55.66852 12.55437
+1084 Region Hovedstaden 101 Københavns Kommune 1710 København V 55.66956 12.56396
+1084 Region Hovedstaden 101 Københavns Kommune 1711 København V 55.66731 12.55953
+1084 Region Hovedstaden 101 Københavns Kommune 1712 København V 55.66775 12.55768
+1084 Region Hovedstaden 101 Københavns Kommune 1714 København V 55.66655 12.55848
+1084 Region Hovedstaden 101 Københavns Kommune 1715 København V 55.66890 12.56172
+1084 Region Hovedstaden 101 Københavns Kommune 1716 København V 55.66884 12.55880
+1084 Region Hovedstaden 101 Københavns Kommune 1717 København V 55.66683 12.55691
+1084 Region Hovedstaden 101 Københavns Kommune 1718 København V 55.66662 12.55623
+1084 Region Hovedstaden 101 Københavns Kommune 1719 København V 55.66632 12.55556
+1084 Region Hovedstaden 101 Københavns Kommune 1720 København V 55.66520 12.54741
+1084 Region Hovedstaden 101 Københavns Kommune 1721 København V 55.66633 12.55278
+1084 Region Hovedstaden 101 Københavns Kommune 1722 København V 55.66615 12.55456
+1084 Region Hovedstaden 101 Københavns Kommune 1723 København V 55.66722 12.55227
+1084 Region Hovedstaden 101 Københavns Kommune 1724 København V 55.66804 12.55208
+1084 Region Hovedstaden 101 Københavns Kommune 1725 København V 55.66552 12.55433
+1084 Region Hovedstaden 101 Københavns Kommune 1726 København V 55.66548 12.55306
+1084 Region Hovedstaden 101 Københavns Kommune 1727 København V 55.66522 12.55176
+1084 Region Hovedstaden 101 Københavns Kommune 1728 København V 55.66491 12.55068
+1084 Region Hovedstaden 101 Københavns Kommune 1729 København V 55.66465 12.54937
+1084 Region Hovedstaden 101 Københavns Kommune 1730 København V 55.66440 12.54823
+1084 Region Hovedstaden 101 Københavns Kommune 1731 København V 55.66417 12.54708
+1084 Region Hovedstaden 101 Københavns Kommune 1732 København V 55.66398 12.54596
+1084 Region Hovedstaden 101 Københavns Kommune 1733 København V 55.66358 12.54384
+1084 Region Hovedstaden 101 Københavns Kommune 1734 København V 55.66522 12.54565
+1084 Region Hovedstaden 101 Københavns Kommune 1735 København V 55.66504 12.54514
+1084 Region Hovedstaden 101 Københavns Kommune 1736 København V 55.66546 12.54387
+1084 Region Hovedstaden 101 Københavns Kommune 1737 København V 55.66485 12.54459
+1084 Region Hovedstaden 101 Københavns Kommune 1738 København V 55.66479 12.54366
+1084 Region Hovedstaden 101 Københavns Kommune 1739 København V 55.66441 12.54298
+1084 Region Hovedstaden 101 Københavns Kommune 1748 København V 55.66629 12.53237
+1084 Region Hovedstaden 101 Københavns Kommune    1749 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1750 København V 55.66654 12.53910
+1084 Region Hovedstaden 101 Københavns Kommune    1751 København V 55.67040 12.54477
+1084 Region Hovedstaden 101 Københavns Kommune    1752 København V 55.67030 12.54286
+1084 Region Hovedstaden 101 Københavns Kommune    1753 København V 55.66962 12.54334
+1084 Region Hovedstaden 101 Københavns Kommune    1754 København V 55.66948 12.54424
+1084 Region Hovedstaden 101 Københavns Kommune    1755 København V 55.66978 12.54292
+1084 Region Hovedstaden 101 Københavns Kommune    1756 København V 55.66931 12.54250
+1084 Region Hovedstaden 101 Københavns Kommune    1757 København V 55.66958 12.54056
+1084 Region Hovedstaden 101 Københavns Kommune    1758 København V 55.66828 12.54218
+1084 Region Hovedstaden 101 Københavns Kommune    1759 København V 55.66829 12.54408
+1084 Region Hovedstaden 101 Københavns Kommune    1760 København V 55.66672 12.53767
+1084 Region Hovedstaden 101 Københavns Kommune    1761 København V 55.66687 12.54124
+1084 Region Hovedstaden 101 Københavns Kommune    1762 København V 55.66495 12.54050
+1084 Region Hovedstaden 101 Københavns Kommune    1763 København V 55.66500 12.54169
+1084 Region Hovedstaden 101 Københavns Kommune    1764 København V 55.66494 12.54010
+1084 Region Hovedstaden 101 Københavns Kommune    1765 København V 55.66423 12.53902
+1084 Region Hovedstaden 101 Københavns Kommune    1766 København V 55.66404 12.54054
+1084 Region Hovedstaden 101 Københavns Kommune    1770 København V 55.66898 12.53833
+1084 Region Hovedstaden 101 Københavns Kommune    1771 København V 55.66857 12.53938
+1084 Region Hovedstaden 101 Københavns Kommune    1772 København V 55.66835 12.53859
+1084 Region Hovedstaden 101 Københavns Kommune    1773 København V 55.66820 12.53800
+1084 Region Hovedstaden 101 Københavns Kommune    1774 København V 55.66752 12.53844
+1084 Region Hovedstaden 101 Københavns Kommune    1775 København V 55.66789 12.53674
+1084 Region Hovedstaden 101 Københavns Kommune    1777 København V 55.66764 12.53747
+1084 Region Hovedstaden 101 Københavns Kommune    1778 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1780 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1785 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1786 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1787 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1789 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1790 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1795 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1799 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1810 Frederiksberg C 55.67206 12.53984
+1084 Region Hovedstaden 101 Københavns Kommune    2000 Frederiksberg 55.68044 12.51722
+1084 Region Hovedstaden 101 Københavns Kommune    2100 København Ø 55.70836 12.57823
+1084 Region Hovedstaden 101 Københavns Kommune    2200 København N 55.69494 12.55024
+1084 Region Hovedstaden 101 Københavns Kommune    2300 København S 55.64747 12.58836
+1084 Region Hovedstaden 101 Københavns Kommune    2400 København NV 55.71135 12.52555
+1084 Region Hovedstaden 101 Københavns Kommune    2450 København SV 55.64872 12.53376
+1084 Region Hovedstaden 101 Københavns Kommune    2500 Valby 55.66006 12.50211
+1084 Region Hovedstaden 101 Københavns Kommune    2610 Rødovre 55.68724 12.44904
+1084 Region Hovedstaden 101 Københavns Kommune    2700 Brønshøj 55.70907 12.48454
+1084 Region Hovedstaden 101 Københavns Kommune    2720 Vanløse 55.68814 12.48486
+1084 Region Hovedstaden 101 Københavns Kommune    2770 Kastrup 55.61868 12.64551
+1084 Region Hovedstaden 101 Københavns Kommune    2860 Søborg 55.73641 12.49513
+1084 Region Hovedstaden 101 Københavns Kommune    2900 Hellerup 55.73293 12.56198
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1780 København V 
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1790 København V 
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1800 Frederiksberg C 55.67053 12.53540
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1801 Frederiksberg C 55.66879 12.53512
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1802 Frederiksberg C 55.66985 12.53467
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1803 Frederiksberg C 55.67017 12.53329
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1804 Frederiksberg C 55.66961 12.53196
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1805 Frederiksberg C 55.66804 12.53105
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1806 Frederiksberg C 55.67221 12.53359
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1807 Frederiksberg C 55.67144 12.53295
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1808 Frederiksberg C 55.67139 12.53444
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1809 Frederiksberg C 55.67270 12.53579
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1810 Frederiksberg C 55.67206 12.53984
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1811 Frederiksberg C 55.67228 12.53658
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1812 Frederiksberg C 55.67231 12.53745
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1813 Frederiksberg C 55.67220 12.53860
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1814 Frederiksberg C 55.67208 12.54061
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1815 Frederiksberg C 55.67289 12.54203
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1816 Frederiksberg C 55.67294 12.54334
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1817 Frederiksberg C 55.67208 12.54294
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1818 Frederiksberg C 55.67280 12.54461
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1819 Frederiksberg C 55.67424 12.54990
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1820 Frederiksberg C 55.67341 12.53879
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1822 Frederiksberg C 55.67266 12.54704
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1823 Frederiksberg C 55.67290 12.54552
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1824 Frederiksberg C 55.67409 12.54809
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1825 Frederiksberg C 55.67441 12.54588
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1826 Frederiksberg C 55.67462 12.54486
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1827 Frederiksberg C 55.67479 12.54369
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1828 Frederiksberg C 55.67501 12.54246
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1829 Frederiksberg C 55.67527 12.54115
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1850 Frederiksberg C 55.67605 12.54337
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1851 Frederiksberg C 55.67539 12.53983
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1852 Frederiksberg C 55.67565 12.53863
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1853 Frederiksberg C 55.67542 12.53627
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1854 Frederiksberg C 55.67551 12.53411
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1855 Frederiksberg C 55.67629 12.53550
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1856 Frederiksberg C 55.67668 12.53736
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1857 Frederiksberg C 55.67699 12.53515
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1860 Frederiksberg C 55.68097 12.53605
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1861 Frederiksberg C 55.67947 12.53508
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1862 Frederiksberg C 55.67948 12.53603
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1863 Frederiksberg C 55.67986 12.53718
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1864 Frederiksberg C 55.67847 12.53886
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1865 Frederiksberg C 55.67908 12.53820
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1866 Frederiksberg C 55.67809 12.53739
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1867 Frederiksberg C 55.67881 12.53951
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1868 Frederiksberg C 55.67758 12.53979
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1870 Frederiksberg C 55.68048 12.54187
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1871 Frederiksberg C 55.68171 12.54272
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1872 Frederiksberg C 55.68006 12.54472
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1873 Frederiksberg C 55.67991 12.54407
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1874 Frederiksberg C 55.67955 12.54639
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1875 Frederiksberg C 55.67897 12.54500
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1876 Frederiksberg C 55.67826 12.54465
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1877 Frederiksberg C 55.67729 12.54301
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1878 Frederiksberg C 55.67700 12.54434
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1879 Frederiksberg C 55.67965 12.54778
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1900 Frederiksberg C 55.67754 12.55656
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1901 Frederiksberg C 55.67689 12.54689
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1902 Frederiksberg C 55.67789 12.54823
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1903 Frederiksberg C 55.67714 12.54895
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1904 Frederiksberg C 55.67648 12.54999
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1905 Frederiksberg C 55.67647 12.55159
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1906 Frederiksberg C 55.67533 12.55132
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1908 Frederiksberg C 55.67456 12.55385
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1909 Frederiksberg C 55.67561 12.55271
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1910 Frederiksberg C 55.67883 12.55226
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1911 Frederiksberg C 55.67809 12.55068
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1912 Frederiksberg C 55.67887 12.55120
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1913 Frederiksberg C 55.67875 12.55246
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1914 Frederiksberg C 55.67806 12.55338
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1915 Frederiksberg C 55.67885 12.55314
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1916 Frederiksberg C 55.67770 12.55521
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1917 Frederiksberg C 55.67708 12.55484
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1920 Frederiksberg C 55.67976 12.55172
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1921 Frederiksberg C 55.67999 12.55273
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1922 Frederiksberg C 55.68027 12.55317
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1923 Frederiksberg C 55.68092 12.55011
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1924 Frederiksberg C 55.68107 12.55156
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1925 Frederiksberg C 55.68103 12.55354
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1926 Frederiksberg C 55.68013 12.55610
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1927 Frederiksberg C 55.67940 12.55599
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1928 Frederiksberg C 55.67879 12.55590
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1950 Frederiksberg C 55.68185 12.53716
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1951 Frederiksberg C 55.68210 12.53615
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1952 Frederiksberg C 55.68211 12.53703
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1953 Frederiksberg C 55.68288 12.53748
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1954 Frederiksberg C 55.68388 12.53899
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1955 Frederiksberg C 55.68352 12.54038
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1956 Frederiksberg C 55.68333 12.54120
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1957 Frederiksberg C 55.68323 12.54215
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1958 Frederiksberg C 55.68437 12.54302
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1959 Frederiksberg C 55.68552 12.54322
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1960 Frederiksberg C 55.68482 12.55132
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1961 Frederiksberg C 55.68168 12.54610
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1962 Frederiksberg C 55.68222 12.54758
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1963 Frederiksberg C 55.68107 12.54783
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1964 Frederiksberg C 55.68419 12.54779
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1965 Frederiksberg C 55.68326 12.54882
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1966 Frederiksberg C 55.68347 12.55017
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1967 Frederiksberg C 55.68436 12.54991
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1970 Frederiksberg C 55.68259 12.54959
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1971 Frederiksberg C 55.68415 12.55205
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1972 Frederiksberg C 55.68355 12.55286
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1973 Frederiksberg C 55.68291 12.55350
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1974 Frederiksberg C 55.68257 12.55437
+1084 Region Hovedstaden 147 Frederiksberg Kommune 2000 Frederiksberg 55.68044 12.51722
+1084 Region Hovedstaden 147 Frederiksberg Kommune  2200 København N 55.69494 12.55024
+1084 Region Hovedstaden 147 Frederiksberg Kommune  2500 Valby 55.66006 12.50211
+1084 Region Hovedstaden 147 Frederiksberg Kommune  2720 Vanløse 55.68814 12.48486
+1084 Region Hovedstaden 151 Ballerup Kommune       2730 Herlev 55.73375 12.43373
+1084 Region Hovedstaden 151 Ballerup Kommune       2740 Skovlunde 55.71487 12.39935
+1084 Region Hovedstaden 151 Ballerup Kommune       2750 Ballerup 55.73233 12.36151
+1084 Region Hovedstaden 151 Ballerup Kommune       2760 Måløv 55.75354 12.30386
+1084 Region Hovedstaden 151 Ballerup Kommune       3500 Værløse 55.77835 12.36336
+1084 Region Hovedstaden 153 Brøndby Kommune        2600 Glostrup 55.68305 12.40177
+1084 Region Hovedstaden 153 Brøndby Kommune        2605 Brøndby 55.64993 12.41477
+1084 Region Hovedstaden 153 Brøndby Kommune        2620 Albertslund 55.67920 12.34790
+1084 Region Hovedstaden 153 Brøndby Kommune        2650 Hvidovre 55.62950 12.47002
+1084 Region Hovedstaden 153 Brøndby Kommune        2660 Brøndby Strand 55.62202 12.41906
+1084 Region Hovedstaden 155 Dragør Kommune         2791 Dragør 55.58534 12.61562
+1084 Region Hovedstaden 157 Gentofte Kommune       2800 Kongens Lyngby 55.78297 12.51784
+1084 Region Hovedstaden 157 Gentofte Kommune       2820 Gentofte 55.75380 12.53126
+1084 Region Hovedstaden 157 Gentofte Kommune       2860 Søborg 55.73641 12.49513
+1084 Region Hovedstaden 157 Gentofte Kommune       2870 Dyssegård 
+1084 Region Hovedstaden 157 Gentofte Kommune       2900 Hellerup 55.73293 12.56198
+1084 Region Hovedstaden 157 Gentofte Kommune       2920 Charlottenlund 55.75805 12.57367
+1084 Region Hovedstaden 157 Gentofte Kommune       2930 Klampenborg 55.77751 12.58396
+1084 Region Hovedstaden 159 Gladsaxe Kommune       2730 Herlev 55.73375 12.43373
+1084 Region Hovedstaden 159 Gladsaxe Kommune       2800 Kongens Lyngby 55.78297 12.51784
+1084 Region Hovedstaden 159 Gladsaxe Kommune       2820 Gentofte 55.75380 12.53126
+1084 Region Hovedstaden 159 Gladsaxe Kommune       2860 Søborg 55.73641 12.49513
+1084 Region Hovedstaden 159 Gladsaxe Kommune       2880 Bagsværd 55.75950 12.44536
+1084 Region Hovedstaden 159 Gladsaxe Kommune       3500 Værløse 55.77835 12.36336
+1084 Region Hovedstaden 161 Glostrup Kommune       2600 Glostrup 55.68305 12.40177
+1084 Region Hovedstaden 163 Herlev Kommune         2730 Herlev 55.73375 12.43373
+1084 Region Hovedstaden 163 Herlev Kommune         2740 Skovlunde 55.71487 12.39935
+1084 Region Hovedstaden 163 Herlev Kommune         2880 Bagsværd 55.75950 12.44536
+1084 Region Hovedstaden 165 Albertslund Kommune    2600 Glostrup 55.68305 12.40177
+1084 Region Hovedstaden 165 Albertslund Kommune    2620 Albertslund 55.67920 12.34790
+1084 Region Hovedstaden 165 Albertslund Kommune    2750 Ballerup 55.73233 12.36151
+1084 Region Hovedstaden 167 Hvidovre Kommune       2610 Rødovre 55.68724 12.44904
+1084 Region Hovedstaden 167 Hvidovre Kommune       2650 Hvidovre 55.62950 12.47002
+1084 Region Hovedstaden 167 Hvidovre Kommune       2660 Brøndby Strand 55.62202 12.41906
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune   800 Høje Taastrup 
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2630 Taastrup 55.66713 12.27888
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2633 Returpost 
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2640 Hedehusene 55.65251 12.19780
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune  4000 Roskilde 55.64374 12.07486
+1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 2800 Kongens Lyngby 55.78297 12.51784
+1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 2830 Virum 55.79353 12.46172
+1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 2840 Holte 55.82208 12.47726
+1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 2930 Klampenborg 55.77751 12.58396
+1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 3500 Værløse 55.77835 12.36336
+1084 Region Hovedstaden 175 Rødovre Kommune        2610 Rødovre 55.68724 12.44904
+1084 Region Hovedstaden 175 Rødovre Kommune        2730 Herlev 55.73375 12.43373
+1084 Region Hovedstaden 183 Ishøj Kommune          2635 Ishøj 55.62157 12.31425
+1084 Region Hovedstaden 183 Ishøj Kommune          2640 Hedehusene 55.65251 12.19780
+1084 Region Hovedstaden 185 Tårnby Kommune         1532 København V 
+1084 Region Hovedstaden 185 Tårnby Kommune      1533 København V 
+1084 Region Hovedstaden 185 Tårnby Kommune      2300 København S 55.64747 12.58836
+1084 Region Hovedstaden 185 Tårnby Kommune      2770 Kastrup 55.61868 12.64551
+1084 Region Hovedstaden 185 Tårnby Kommune      2791 Dragør 55.58534 12.61562
+1084 Region Hovedstaden 187 Vallensbæk Kommune  2625 Vallensbæk 55.64052 12.36514
+1084 Region Hovedstaden 187 Vallensbæk Kommune  2665 Vallensbæk Strand 55.62152 12.38431
+1084 Region Hovedstaden 190 Furesø Kommune      2880 Bagsværd 55.75950 12.44536
+1084 Region Hovedstaden 190 Furesø Kommune      3460 Birkerød 55.84550 12.42006
+1084 Region Hovedstaden 190 Furesø Kommune      3500 Værløse 55.77835 12.36336
+1084 Region Hovedstaden 190 Furesø Kommune      3520 Farum 55.81675 12.35476
+1084 Region Hovedstaden 190 Furesø Kommune      3540 Lynge 55.83997 12.27925
+1084 Region Hovedstaden 201 Allerød Kommune     3400 Hillerød 55.93498 12.27694
+1084 Region Hovedstaden 201 Allerød Kommune     3450 Allerød 55.87503 12.35114
+1084 Region Hovedstaden 201 Allerød Kommune     3460 Birkerød 55.84550 12.42006
+1084 Region Hovedstaden 201 Allerød Kommune     3520 Farum 55.81675 12.35476
+1084 Region Hovedstaden 201 Allerød Kommune     3540 Lynge 55.83997 12.27925
+1084 Region Hovedstaden 201 Allerød Kommune     3550 Slangerup 55.84735 12.18357
+1084 Region Hovedstaden 210 Fredensborg Kommune 2970 Hørsholm 55.88155 12.47364
+1084 Region Hovedstaden 210 Fredensborg Kommune 2980 Kokkedal 55.92025 12.44891
+1084 Region Hovedstaden 210 Fredensborg Kommune 2990 Nivå 55.93278 12.50264
+1084 Region Hovedstaden 210 Fredensborg Kommune 3050 Humlebæk 55.96124 12.51501
+1084 Region Hovedstaden 210 Fredensborg Kommune 3060 Espergærde 55.99614 12.53932
+1084 Region Hovedstaden 210 Fredensborg Kommune 3400 Hillerød 55.93498 12.27694
+1084 Region Hovedstaden 210 Fredensborg Kommune 3450 Allerød 55.87503 12.35114
+1084 Region Hovedstaden 210 Fredensborg Kommune 3480 Fredensborg 55.97487 12.40607
+1084 Region Hovedstaden 210 Fredensborg Kommune 3490 Kvistgård 55.99545 12.49674
+1084 Region Hovedstaden 217 Helsingør Kommune   3000 Helsingør 56.03660 12.54321
+1084 Region Hovedstaden 217 Helsingør Kommune   3050 Humlebæk 55.96124 12.51501
+1084 Region Hovedstaden 217 Helsingør Kommune   3060 Espergærde 55.99614 12.53932
+1084 Region Hovedstaden 217 Helsingør Kommune   3070 Snekkersten 56.01313 12.56123
+1084 Region Hovedstaden 217 Helsingør Kommune   3080 Tikøb 56.02552 12.44807
+1084 Region Hovedstaden 217 Helsingør Kommune   3100 Hornbæk 56.06924 12.45255
+1084 Region Hovedstaden 217 Helsingør Kommune   3140 Ålsgårde 56.07174 12.51817
+1084 Region Hovedstaden 217 Helsingør Kommune   3150 Hellebæk 56.05681 12.56059
+1084 Region Hovedstaden 217 Helsingør Kommune   3230 Græsted 56.05426 12.30513
+1084 Region Hovedstaden 217 Helsingør Kommune   3480 Fredensborg 55.97487 12.40607
+1084 Region Hovedstaden 217 Helsingør Kommune   3490 Kvistgård 55.99545 12.49674
+1084 Region Hovedstaden 219 Hillerød Kommune    3200 Helsinge 56.02113 12.19356
+1084 Region Hovedstaden 219 Hillerød Kommune    3230 Græsted 56.05426 12.30513
+1084 Region Hovedstaden 219 Hillerød Kommune    3310 Ølsted 55.91297 12.07772
+1084 Region Hovedstaden 219 Hillerød Kommune    3320 Skævinge 55.92696 12.14640
+1084 Region Hovedstaden 219 Hillerød Kommune    3330 Gørløse 55.88609 12.20748
+1084 Region Hovedstaden 219 Hillerød Kommune    3400 Hillerød 55.93498 12.27694
+1084 Region Hovedstaden 219 Hillerød Kommune    3450 Allerød 55.87503 12.35114
+1084 Region Hovedstaden 219 Hillerød Kommune    3480 Fredensborg 55.97487 12.40607
+1084 Region Hovedstaden 219 Hillerød Kommune    3540 Lynge 55.83997 12.27925
+1084 Region Hovedstaden 219 Hillerød Kommune    3550 Slangerup 55.84735 12.18357
+1084 Region Hovedstaden 219 Hillerød Kommune    3600 Frederikssund 55.83921 12.09516
+1084 Region Hovedstaden 223 Hørsholm Kommune    2950 Vedbæk 55.84811 12.54249
+1084 Region Hovedstaden 223 Hørsholm Kommune    2960 Rungsted Kyst 55.88673 12.53168
+1084 Region Hovedstaden 223 Hørsholm Kommune    2970 Hørsholm 55.88155 12.47364
+1084 Region Hovedstaden 223 Hørsholm Kommune    2980 Kokkedal 55.92025 12.44891
+1084 Region Hovedstaden 230 Rudersdal Kommune     2800 Kongens Lyngby 55.78297 12.51784
+1084 Region Hovedstaden 230 Rudersdal Kommune     2830 Virum 55.79353 12.46172
+1084 Region Hovedstaden 230 Rudersdal Kommune     2840 Holte 55.82208 12.47726
+1084 Region Hovedstaden 230 Rudersdal Kommune     2850 Nærum 55.81638 12.53329
+1084 Region Hovedstaden 230 Rudersdal Kommune     2942 Skodsborg 55.82191 12.56243
+1084 Region Hovedstaden 230 Rudersdal Kommune     2950 Vedbæk 55.84811 12.54249
+1084 Region Hovedstaden 230 Rudersdal Kommune     2970 Hørsholm 55.88155 12.47364
+1084 Region Hovedstaden 230 Rudersdal Kommune     3460 Birkerød 55.84550 12.42006
+1084 Region Hovedstaden 240 Egedal Kommune        2750 Ballerup 55.73233 12.36151
+1084 Region Hovedstaden 240 Egedal Kommune        2765 Smørum 55.72370 12.28292
+1084 Region Hovedstaden 240 Egedal Kommune        3500 Værløse 55.77835 12.36336
+1084 Region Hovedstaden 240 Egedal Kommune        3520 Farum 55.81675 12.35476
+1084 Region Hovedstaden 240 Egedal Kommune        3540 Lynge 55.83997 12.27925
+1084 Region Hovedstaden 240 Egedal Kommune        3550 Slangerup 55.84735 12.18357
+1084 Region Hovedstaden 240 Egedal Kommune        3650 Ølstykke 55.79165 12.15589
+1084 Region Hovedstaden 240 Egedal Kommune        3660 Stenløse 55.78491 12.23784
+1084 Region Hovedstaden 240 Egedal Kommune        3670 Veksø Sjælland 55.74680 12.22270
+1084 Region Hovedstaden 250 Frederikssund Kommune 3550 Slangerup 55.84735 12.18357
+1084 Region Hovedstaden 250 Frederikssund Kommune 3600 Frederikssund 55.83921 12.09516
+1084 Region Hovedstaden 250 Frederikssund Kommune 3630 Jægerspris 55.84948 11.96693
+1084 Region Hovedstaden 250 Frederikssund Kommune 4050 Skibby 55.75812 11.96399
+1084 Region Hovedstaden 260 Halsnæs Kommune       3300 Frederiksværk 55.98377 12.05829
+1084 Region Hovedstaden 260 Halsnæs Kommune       3310 Ølsted 55.91297 12.07772
+1084 Region Hovedstaden 260 Halsnæs Kommune       3320 Skævinge 55.92696 12.14640
+1084 Region Hovedstaden 260 Halsnæs Kommune       3360 Liseleje 56.00801 11.97365
+1084 Region Hovedstaden 260 Halsnæs Kommune       3370 Melby 55.98794 11.97161
+1084 Region Hovedstaden 260 Halsnæs Kommune       3390 Hundested 55.96845 11.90408
+1084 Region Hovedstaden 260 Halsnæs Kommune       3600 Frederikssund 55.83921 12.09516
+1084 Region Hovedstaden 270 Gribskov Kommune      3100 Hornbæk 56.06924 12.45255
+1084 Region Hovedstaden 270 Gribskov Kommune      3120 Dronningmølle 56.08601 12.39088
+1084 Region Hovedstaden 270 Gribskov Kommune      3200 Helsinge 56.02113 12.19356
+1084 Region Hovedstaden 270 Gribskov Kommune      3210 Vejby 56.07180 12.14656
+1084 Region Hovedstaden 270 Gribskov Kommune      3220 Tisvildeleje 56.04484 12.07955
+1084 Region Hovedstaden 270 Gribskov Kommune      3230 Græsted 56.05426 12.30513
+1084 Region Hovedstaden 270 Gribskov Kommune      3250 Gilleleje 56.10381 12.30990
+1084 Region Hovedstaden 270 Gribskov Kommune      3300 Frederiksværk 55.98377 12.05829
+1084 Region Hovedstaden 400 Bornholm Kommune      3700 Rønne 55.12051 14.79330
+1084 Region Hovedstaden 400 Bornholm Kommune      3720 Aakirkeby 55.06824 14.92628
+1084 Region Hovedstaden 400 Bornholm Kommune      3730 Nexø 55.04259 15.07208
+1084 Region Hovedstaden 400 Bornholm Kommune      3740 Svaneke 55.11518 15.10707
+1084 Region Hovedstaden 400 Bornholm Kommune      3751 Østermarie 55.12978 15.02394
+1084 Region Hovedstaden 400 Bornholm Kommune      3760 Gudhjem 55.18814 14.92606
+1084 Region Hovedstaden 400 Bornholm Kommune      3770 Allinge 55.25089 14.79499
+1084 Region Hovedstaden 400 Bornholm Kommune      3782 Klemensker 55.18608 14.81798
+1084 Region Hovedstaden 400 Bornholm Kommune      3790 Hasle 55.20141 14.74065
+1084 Region Hovedstaden 411 Christiansø           3760 Gudhjem 55.18814 14.92606
+1085 Region Sjælland    253 Greve Kommune         2640 Hedehusene 55.65251 12.19780
+1085 Region Sjælland    253 Greve Kommune         2670 Greve 55.59681 12.27738
+1085 Region Sjælland    253 Greve Kommune         2690 Karlslunde 55.56609 12.22281
+1085 Region Sjælland    253 Greve Kommune         4030 Tune 
+1085 Region Sjælland    259 Køge Kommune          4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland    259 Køge Kommune          4130 Viby Sjælland 55.54462 12.02342
+1085 Region Sjælland 259 Køge Kommune      4140 Borup 55.49523 11.96253
+1085 Region Sjælland 259 Køge Kommune      4174 Jystrup Midtsj 55.52436 11.85451
+1085 Region Sjælland 259 Køge Kommune      4320 Lejre 55.59474 11.96166
+1085 Region Sjælland 259 Køge Kommune      4600 Køge 55.44522 12.16340
+1085 Region Sjælland 259 Køge Kommune      4623 Lille Skensved 55.50422 12.10158
+1085 Region Sjælland 259 Køge Kommune      4632 Bjæverskov 55.44771 12.04189
+1085 Region Sjælland 259 Køge Kommune      4681 Herfølge 55.40639 12.12822
+1085 Region Sjælland 259 Køge Kommune      4682 Tureby 55.36931 12.08401
+1085 Region Sjælland 265 Roskilde Kommune  2640 Hedehusene 55.65251 12.19780
+1085 Region Sjælland 265 Roskilde Kommune  3670 Veksø Sjælland 55.74680 12.22270
+1085 Region Sjælland 265 Roskilde Kommune  4000 Roskilde 55.64374 12.07486
+1085 Region Sjælland 265 Roskilde Kommune  4030 Tune 
+1085 Region Sjælland 265 Roskilde Kommune  4040 Jyllinge 55.75654 12.10702
+1085 Region Sjælland 265 Roskilde Kommune  4130 Viby Sjælland 55.54462 12.02342
+1085 Region Sjælland 265 Roskilde Kommune  4140 Borup 55.49523 11.96253
+1085 Region Sjælland 265 Roskilde Kommune  4320 Lejre 55.59474 11.96166
+1085 Region Sjælland 265 Roskilde Kommune  4621 Gadstrup 55.56888 12.10881
+1085 Region Sjælland 265 Roskilde Kommune  4622 Havdrup 55.54019 12.12208
+1085 Region Sjælland 265 Roskilde Kommune  4623 Lille Skensved 55.50422 12.10158
+1085 Region Sjælland 269 Solrød Kommune    2680 Solrød Strand 55.53472 12.19865
+1085 Region Sjælland 269 Solrød Kommune    2690 Karlslunde 55.56609 12.22281
+1085 Region Sjælland 269 Solrød Kommune    4622 Havdrup 55.54019 12.12208
+1085 Region Sjælland 269 Solrød Kommune    4623 Lille Skensved 55.50422 12.10158
+1085 Region Sjælland 306 Odsherred Kommune 4500 Nykøbing Sj 55.90868 11.64534
+1085 Region Sjælland 306 Odsherred Kommune 4534 Hørve 55.75881 11.43756
+1085 Region Sjælland 306 Odsherred Kommune 4540 Fårevejle 55.80737 11.43445
+1085 Region Sjælland 306 Odsherred Kommune 4550 Asnæs 55.81667 11.50364
+1085 Region Sjælland 306 Odsherred Kommune 4560 Vig 55.84558 11.59508
+1085 Region Sjælland 306 Odsherred Kommune 4571 Grevinge 55.80363 11.59316
+1085 Region Sjælland 306 Odsherred Kommune 4572 Nørre Asmindrup 55.87771 11.61618
+1085 Region Sjælland 306 Odsherred Kommune 4573 Højby 55.90641 11.56954
+1085 Region Sjælland 306 Odsherred Kommune 4581 Rørvig 55.95288 11.75324
+1085 Region Sjælland 306 Odsherred Kommune 4583 Sjællands Odde 55.96797 11.36875
+1085 Region Sjælland 306 Odsherred Kommune 4591 Føllenslev 55.73665 11.34139
+1085 Region Sjælland 316 Holbæk Kommune    4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland 316 Holbæk Kommune    4295 Stenlille 55.55057 11.57216
+1085 Region Sjælland 316 Holbæk Kommune    4296 Nyrup 55.54357 11.64984
+1085 Region Sjælland 316 Holbæk Kommune    4300 Holbæk 55.72650 11.70569
+1085 Region Sjælland 316 Holbæk Kommune    4330 Hvalsø 55.58543 11.87160
+1085 Region Sjælland 316 Holbæk Kommune    4340 Tølløse 55.61343 11.71255
+1085 Region Sjælland 316 Holbæk Kommune    4350 Ugerløse 55.59043 11.63993
+1085 Region Sjælland 316 Holbæk Kommune    4360 Kirke Eskilstrup 55.56657 11.78108
+1085 Region Sjælland 316 Holbæk Kommune    4370 Store Merløse 55.54655 11.72273
+1085 Region Sjælland 316 Holbæk Kommune    4390 Vipperød 55.66408 11.73912
+1085 Region Sjælland 316 Holbæk Kommune    4420 Regstrup 55.66632 11.60712
+1085 Region Sjælland 316 Holbæk Kommune    4440 Mørkøv 55.63958 11.50127
+1085 Region Sjælland 316 Holbæk Kommune    4450 Jyderup 55.64063 11.39298
+1085 Region Sjælland 316 Holbæk Kommune    4460 Snertinge 55.70877 11.38364
+1085 Region Sjælland 316 Holbæk Kommune    4470 Svebølle 55.64782 11.30125
+1085 Region Sjælland 316 Holbæk Kommune    4520 Svinninge 55.72597 11.49603
+1085 Region Sjælland 316 Holbæk Kommune    4532 Gislinge 55.74219 11.56622
+1085 Region Sjælland 320 Faxe Kommune      4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland 320 Faxe Kommune       4160 Herlufmagle 55.28784 11.79609
+1085 Region Sjælland 320 Faxe Kommune       4640 Faxe 55.24193 12.13813
+1085 Region Sjælland 320 Faxe Kommune       4652 Hårlev 55.35539 12.22512
+1085 Region Sjælland 320 Faxe Kommune       4653 Karise 55.30337 12.19473
+1085 Region Sjælland 320 Faxe Kommune       4654 Faxe Ladeplads 55.22204 12.14734
+1085 Region Sjælland 320 Faxe Kommune       4682 Tureby 55.36931 12.08401
+1085 Region Sjælland 320 Faxe Kommune       4683 Rønnede 55.24436 12.02847
+1085 Region Sjælland 320 Faxe Kommune       4684 Holmegaard 55.25193 11.89518
+1085 Region Sjælland 320 Faxe Kommune       4690 Haslev 55.32358 11.96215
+1085 Region Sjælland 320 Faxe Kommune       4733 Tappernøje 55.18053 11.97841
+1085 Region Sjælland 326 Kalundborg Kommune 4200 Slagelse 55.40527 11.36320
+1085 Region Sjælland 326 Kalundborg Kommune 4270 Høng 55.46926 11.31518
+1085 Region Sjælland 326 Kalundborg Kommune 4281 Gørlev 55.52988 11.19943
+1085 Region Sjælland 326 Kalundborg Kommune 4291 Ruds Vedby 55.54393 11.38800
+1085 Region Sjælland 326 Kalundborg Kommune 4293 Dianalund 55.54247 11.48163
+1085 Region Sjælland 326 Kalundborg Kommune 4400 Kalundborg 55.68430 11.10933
+1085 Region Sjælland 326 Kalundborg Kommune 4450 Jyderup 55.64063 11.39298
+1085 Region Sjælland 326 Kalundborg Kommune 4460 Snertinge 55.70877 11.38364
+1085 Region Sjælland 326 Kalundborg Kommune 4470 Svebølle 55.64782 11.30125
+1085 Region Sjælland 326 Kalundborg Kommune 4480 Store Fuglede 55.57762 11.20064
+1085 Region Sjælland 326 Kalundborg Kommune 4490 Jerslev Sjælland 55.61311 11.24898
+1085 Region Sjælland 326 Kalundborg Kommune 4534 Hørve 55.75881 11.43756
+1085 Region Sjælland 326 Kalundborg Kommune 4591 Føllenslev 55.73665 11.34139
+1085 Region Sjælland 326 Kalundborg Kommune 4592 Sejerø 55.88928 11.13994
+1085 Region Sjælland 326 Kalundborg Kommune 4593 Eskebjerg 55.71227 11.26672
+1085 Region Sjælland 329 Ringsted Kommune   4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland 329 Ringsted Kommune   4105 Ringsted 
+1085 Region Sjælland 329 Ringsted Kommune   4140 Borup 55.49523 11.96253
+1085 Region Sjælland 329 Ringsted Kommune   4173 Fjenneslev 55.43433 11.66370
+1085 Region Sjælland 329 Ringsted Kommune   4174 Jystrup Midtsj 55.52436 11.85451
+1085 Region Sjælland 329 Ringsted Kommune   4180 Sorø 55.44104 11.57000
+1085 Region Sjælland 329 Ringsted Kommune   4330 Hvalsø 55.58543 11.87160
+1085 Region Sjælland 329 Ringsted Kommune   4360 Kirke Eskilstrup 55.56657 11.78108
+1085 Region Sjælland 329 Ringsted Kommune   4370 Store Merløse 55.54655 11.72273
+1085 Region Sjælland 329 Ringsted Kommune   4690 Haslev 55.32358 11.96215
+1085 Region Sjælland 330 Slagelse Kommune   4180 Sorø 55.44104 11.57000
+1085 Region Sjælland 330 Slagelse Kommune   4190 Munke Bjergby 55.49666 11.49684
+1085 Region Sjælland 330 Slagelse Kommune   4200 Slagelse 55.40527 11.36320
+1085 Region Sjælland 330 Slagelse Kommune   4220 Korsør 55.34128 11.18224
+1085 Region Sjælland 330 Slagelse Kommune   4230 Skælskør 55.23615 11.31255
+1085 Region Sjælland 330 Slagelse Kommune   4241 Vemmelev 55.35636 11.26041
+1085 Region Sjælland 330 Slagelse Kommune   4242 Boeslunde 55.30716 11.28062
+1085 Region Sjælland 330 Slagelse Kommune   4243 Rude 55.22999 11.46848
+1085 Region Sjælland 330 Slagelse Kommune   4250 Fuglebjerg 55.32212 11.55588
+1085 Region Sjælland 330 Slagelse Kommune   4261 Dalmose 55.28184 11.42349
+1085 Region Sjælland 330 Slagelse Kommune   4262 Sandved 55.25101 11.52308
+1085 Region Sjælland 330 Slagelse Kommune   4270 Høng 55.46926 11.31518
+1085 Region Sjælland 336 Stevns Kommune     4600 Køge 55.44522 12.16340
+1085 Region Sjælland 336 Stevns Kommune     4652 Hårlev 55.35539 12.22512
+1085 Region Sjælland 336 Stevns Kommune     4653 Karise 55.30337 12.19473
+1085 Region Sjælland 336 Stevns Kommune     4660 Store Heddinge 55.30881 12.36458
+1085 Region Sjælland 336 Stevns Kommune     4671 Strøby 55.38760 12.29811
+1085 Region Sjælland 336 Stevns Kommune       4672 Klippinge 55.36021 12.34275
+1085 Region Sjælland 336 Stevns Kommune       4673 Rødvig Stevns 55.26003 12.35616
+1085 Region Sjælland 336 Stevns Kommune       4682 Tureby 55.36931 12.08401
+1085 Region Sjælland 340 Sorø Kommune         4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland 340 Sorø Kommune         4173 Fjenneslev 55.43433 11.66370
+1085 Region Sjælland 340 Sorø Kommune         4180 Sorø 55.44104 11.57000
+1085 Region Sjælland 340 Sorø Kommune         4190 Munke Bjergby 55.49666 11.49684
+1085 Region Sjælland 340 Sorø Kommune         4200 Slagelse 55.40527 11.36320
+1085 Region Sjælland 340 Sorø Kommune         4291 Ruds Vedby 55.54393 11.38800
+1085 Region Sjælland 340 Sorø Kommune         4293 Dianalund 55.54247 11.48163
+1085 Region Sjælland 340 Sorø Kommune         4295 Stenlille 55.55057 11.57216
+1085 Region Sjælland 340 Sorø Kommune         4296 Nyrup 55.54357 11.64984
+1085 Region Sjælland 340 Sorø Kommune         4370 Store Merløse 55.54655 11.72273
+1085 Region Sjælland 350 Lejre Kommune        4000 Roskilde 55.64374 12.07486
+1085 Region Sjælland 350 Lejre Kommune        4060 Kirke Såby 55.65232 11.85905
+1085 Region Sjælland 350 Lejre Kommune        4070 Kirke Hyllinge 55.70173 11.89575
+1085 Region Sjælland 350 Lejre Kommune        4320 Lejre 55.59474 11.96166
+1085 Region Sjælland 350 Lejre Kommune        4330 Hvalsø 55.58543 11.87160
+1085 Region Sjælland 350 Lejre Kommune        4340 Tølløse 55.61343 11.71255
+1085 Region Sjælland 360 Lolland Kommune      4894 Øster Ulslev 54.69663 11.59867
+1085 Region Sjælland 360 Lolland Kommune      4895 Errindlev 54.65871 11.50998
+1085 Region Sjælland 360 Lolland Kommune      4900 Nakskov 54.83137 11.12090
+1085 Region Sjælland 360 Lolland Kommune      4912 Harpelunde 54.88669 11.06123
+1085 Region Sjælland 360 Lolland Kommune      4913 Horslunde 54.92576 11.21076
+1085 Region Sjælland 360 Lolland Kommune      4920 Søllested 54.79630 11.29093
+1085 Region Sjælland 360 Lolland Kommune      4930 Maribo 54.78912 11.48080
+1085 Region Sjælland 360 Lolland Kommune      4941 Bandholm 54.83354 11.47093
+1085 Region Sjælland 360 Lolland Kommune      4943 Torrig L 54.91010 11.31193
+1085 Region Sjælland 360 Lolland Kommune      4944 Fejø 54.94802 11.41279
+1085 Region Sjælland 360 Lolland Kommune      4951 Nørreballe 54.81165 11.43036
+1085 Region Sjælland 360 Lolland Kommune      4952 Stokkemarke 54.84446 11.37588
+1085 Region Sjælland 360 Lolland Kommune      4953 Vesterborg 54.86661 11.29695
+1085 Region Sjælland 360 Lolland Kommune      4960 Holeby 54.70172 11.50973
+1085 Region Sjælland 360 Lolland Kommune      4970 Rødby 54.69026 11.38028
+1085 Region Sjælland 360 Lolland Kommune      4983 Dannemare 54.75322 11.19535
+1085 Region Sjælland 370 Næstved Kommune      4100 Ringsted 55.44140 11.83134
+1085 Region Sjælland 370 Næstved Kommune      4160 Herlufmagle 55.28784 11.79609
+1085 Region Sjælland 370 Næstved Kommune      4171 Glumsø 55.36552 11.68040
+1085 Region Sjælland 370 Næstved Kommune      4200 Slagelse 55.40527 11.36320
+1085 Region Sjælland 370 Næstved Kommune      4243 Rude 55.22999 11.46848
+1085 Region Sjælland 370 Næstved Kommune      4250 Fuglebjerg 55.32212 11.55588
+1085 Region Sjælland 370 Næstved Kommune      4261 Dalmose 55.28184 11.42349
+1085 Region Sjælland 370 Næstved Kommune      4262 Sandved 55.25101 11.52308
+1085 Region Sjælland 370 Næstved Kommune      4640 Faxe 55.24193 12.13813
+1085 Region Sjælland 370 Næstved Kommune      4683 Rønnede 55.24436 12.02847
+1085 Region Sjælland 370 Næstved Kommune      4684 Holmegaard 55.25193 11.89518
+1085 Region Sjælland 370 Næstved Kommune      4690 Haslev 55.32358 11.96215
+1085 Region Sjælland 370 Næstved Kommune      4700 Næstved 55.22427 11.74478
+1085 Region Sjælland 370 Næstved Kommune      4733 Tappernøje 55.18053 11.97841
+1085 Region Sjælland 370 Næstved Kommune      4736 Karrebæksminde 55.18855 11.64742
+1085 Region Sjælland 370 Næstved Kommune      4750 Lundby 55.10812 11.85194
+1085 Region Sjælland 376 Guldborgsund Kommune 4800 Nykøbing F 54.78606 11.92978
+1085 Region Sjælland 376 Guldborgsund Kommune 4840 Nørre Alslev 54.91156 11.83804
+1085 Region Sjælland 376 Guldborgsund Kommune 4850 Stubbekøbing 54.86817 12.03844
+1085 Region Sjælland 376 Guldborgsund Kommune 4862 Guldborg 54.86193 11.72254
+1085 Region Sjælland 376 Guldborgsund Kommune 4863 Eskilstrup 54.85125 11.89686
+1085 Region Sjælland 376 Guldborgsund Kommune 4871 Horbelev 54.82121 12.07277
+1085 Region Sjælland 376 Guldborgsund Kommune 4872 Idestrup 54.73508 11.98033
+1085 Region Sjælland 376 Guldborgsund Kommune 4873 Væggerløse 54.68479 11.92472
+1085 Region Sjælland 376 Guldborgsund Kommune 4874 Gedser 54.61412 11.92897
+1085 Region Sjælland 376 Guldborgsund Kommune 4880 Nysted 54.67806 11.71075
+1085 Region Sjælland 376 Guldborgsund Kommune 4891 Toreby L 54.75844 11.78363
+1085 Region Sjælland 376 Guldborgsund Kommune 4892 Kettinge 54.70019 11.75886
+1085 Region Sjælland 376 Guldborgsund Kommune 4894 Øster Ulslev 54.69663 11.59867
+1085 Region Sjælland 376 Guldborgsund Kommune 4930 Maribo 54.78912 11.48080
+1085 Region Sjælland 376 Guldborgsund Kommune 4990 Sakskøbing 54.79509 11.65699
+1085 Region Sjælland 390 Vordingborg Kommune  4720 Præstø 55.10277 12.04930
+1085 Region Sjælland 390 Vordingborg Kommune  4733 Tappernøje 55.18053 11.97841
+1085 Region Sjælland 390 Vordingborg Kommune  4735 Mern 55.04376 12.06101
+1085 Region Sjælland 390 Vordingborg Kommune  4750 Lundby 55.10812 11.85194
+1085 Region Sjælland 390 Vordingborg Kommune  4760 Vordingborg 55.03793 11.89670
+1085 Region Sjælland 390 Vordingborg Kommune  4771 Kalvehave 55.01130 12.13777
+1085 Region Sjælland 390 Vordingborg Kommune  4772 Langebæk 54.99290 12.08654
+1085 Region Sjælland 390 Vordingborg Kommune  4773 Stensved 54.99347 12.03097
+1085 Region Sjælland 390 Vordingborg Kommune  4780 Stege 54.97836 12.27604
+1085 Region Sjælland 390 Vordingborg Kommune  4791 Borre 54.98436 12.47381
+1085 Region Sjælland 390 Vordingborg Kommune  4792 Askeby 54.90876 12.16442
+1085 Region Sjælland 390 Vordingborg Kommune  4793 Bogø By 54.92756 12.04064
