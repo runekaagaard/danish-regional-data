@@ -719,7 +719,7 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1327 København K 55.69028 12.58739
 1084 Region Hovedstaden 101 Københavns Kommune 1328 København K 55.69024 12.58822
 1084 Region Hovedstaden 101 Københavns Kommune 1329 København K 55.68910 12.58510
-1084 Region Hovedstaden 101 Københavns Kommune 1349 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1349 København K 55.673934 12.608084
 1084 Region Hovedstaden 101 Københavns Kommune 1350 København K 55.68829 12.58063
 1084 Region Hovedstaden 101 Københavns Kommune 1352 København K 55.68973 12.57235
 1084 Region Hovedstaden 101 Københavns Kommune 1353 København K 55.68702 12.57375
@@ -770,18 +770,18 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1428 København K 55.67588 12.59796
 1084 Region Hovedstaden 101 Københavns Kommune 1429 København K 55.67549 12.59871
 1084 Region Hovedstaden 101 Københavns Kommune 1430 København K 55.67626 12.59933
-1084 Region Hovedstaden 101 Københavns Kommune 1431 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1431 København K 55.673934 12.608084
 1084 Region Hovedstaden 101 Københavns Kommune 1432 København K 55.69125 12.61416
-1084 Region Hovedstaden 101 Københavns Kommune 1433 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1433 København K 55.673934 12.608084
 1084 Region Hovedstaden 101 Københavns Kommune 1434 København K 55.68048 12.60402
 1084 Region Hovedstaden 101 Københavns Kommune 1435 København K 55.68099 12.60480
 1084 Region Hovedstaden 101 Københavns Kommune 1436 København K 55.67686 12.60326
 1084 Region Hovedstaden 101 Københavns Kommune 1437 København K 55.68071 12.60586
 1084 Region Hovedstaden 101 Københavns Kommune 1438 København K 55.68170 12.60090
 1084 Region Hovedstaden 101 Københavns Kommune 1439 København K 55.68671 12.60757
-1084 Region Hovedstaden 101 Københavns Kommune 1440 København K 
-1084 Region Hovedstaden 101 Københavns Kommune 1441 København K 
-1084 Region Hovedstaden 101 Københavns Kommune 1448 København K 
+1084 Region Hovedstaden 101 Københavns Kommune 1440 København K 55.673934 12.608084
+1084 Region Hovedstaden 101 Københavns Kommune 1441 København K 55.673934 12.608084
+1084 Region Hovedstaden 101 Københavns Kommune 1448 København K 55.673934 12.608084
 1084 Region Hovedstaden 101 Københavns Kommune 1450 København K 55.67769 12.57353
 1084 Region Hovedstaden 101 Københavns Kommune 1451 København K 55.68057 12.56979
 1084 Region Hovedstaden 101 Københavns Kommune 1452 København K 55.67940 12.56760
@@ -802,7 +802,7 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1470 København K 55.67512 12.57414
 1084 Region Hovedstaden 101 Københavns Kommune 1471 København K 55.67449 12.57510
 1084 Region Hovedstaden 101 Københavns Kommune 1472 København K 55.67388 12.57607
-1084 Region Hovedstaden 101 Københavns Kommune 1500 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1500 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1550 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1551 København V 55.67876 12.56603
 1084 Region Hovedstaden 101 Københavns Kommune 1552 København V 55.67500 12.57268
@@ -818,7 +818,7 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1562 København V 55.67045 12.57348
 1084 Region Hovedstaden 101 Københavns Kommune 1563 København V 55.67084 12.57377
 1084 Region Hovedstaden 101 Københavns Kommune 1564 København V 55.67188 12.57549
-1084 Region Hovedstaden 101 Københavns Kommune 1566 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1566 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1567 København V 55.66987 12.57067
 1084 Region Hovedstaden 101 Københavns Kommune 1568 København V 55.66991 12.57148
 1084 Region Hovedstaden 101 Københavns Kommune 1569 København V 55.67123 12.57089
@@ -830,8 +830,8 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1575 København V 55.67238 12.57169
 1084 Region Hovedstaden 101 Københavns Kommune 1576 København V 55.67106 12.57022
 1084 Region Hovedstaden 101 Københavns Kommune 1577 København V 55.67095 12.56843
-1084 Region Hovedstaden 101 Københavns Kommune 1592 København V 
-1084 Region Hovedstaden 101 Københavns Kommune 1599 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1592 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune 1599 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1600 København V 55.68082 12.56074
 1084 Region Hovedstaden 101 Københavns Kommune 1601 København V 55.67791 12.55884
 1084 Region Hovedstaden 101 Københavns Kommune 1602 København V 55.67771 12.56056
@@ -853,16 +853,16 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1619 København V 55.67363 12.55034
 1084 Region Hovedstaden 101 Københavns Kommune 1620 København V 55.67284 12.55403
 1084 Region Hovedstaden 101 Københavns Kommune 1621 København V 55.67319 12.54976
-1084 Region Hovedstaden 101 Københavns Kommune 1622 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1622 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1623 København V 55.67187 12.54531
 1084 Region Hovedstaden 101 Københavns Kommune 1624 København V 55.67210 12.54602
-1084 Region Hovedstaden 101 Københavns Kommune 1630 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1630 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1631 København V 55.68246 12.55540
 1084 Region Hovedstaden 101 Københavns Kommune 1632 København V 55.68304 12.55542
 1084 Region Hovedstaden 101 Københavns Kommune 1633 København V 55.68220 12.55609
 1084 Region Hovedstaden 101 Københavns Kommune 1634 København V 55.68126 12.55651
 1084 Region Hovedstaden 101 Københavns Kommune 1635 København V 55.68281 12.55654
-1084 Region Hovedstaden 101 Københavns Kommune 1640 København V 
+1084 Region Hovedstaden 101 Københavns Kommune 1640 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune 1650 København V 55.66977 12.55503
 1084 Region Hovedstaden 101 Københavns Kommune 1651 København V 55.67226 12.56468
 1084 Region Hovedstaden 101 Københavns Kommune 1652 København V 55.67226 12.56244
@@ -932,7 +932,7 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1738 København V 55.66479 12.54366
 1084 Region Hovedstaden 101 Københavns Kommune 1739 København V 55.66441 12.54298
 1084 Region Hovedstaden 101 Københavns Kommune 1748 København V 55.66629 12.53237
-1084 Region Hovedstaden 101 Københavns Kommune    1749 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1749 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune    1750 København V 55.66654 12.53910
 1084 Region Hovedstaden 101 Københavns Kommune    1751 København V 55.67040 12.54477
 1084 Region Hovedstaden 101 Københavns Kommune    1752 København V 55.67030 12.54286
@@ -957,15 +957,15 @@
 1084 Region Hovedstaden 101 Københavns Kommune    1774 København V 55.66752 12.53844
 1084 Region Hovedstaden 101 Københavns Kommune    1775 København V 55.66789 12.53674
 1084 Region Hovedstaden 101 Københavns Kommune    1777 København V 55.66764 12.53747
-1084 Region Hovedstaden 101 Københavns Kommune    1778 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1780 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1785 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1786 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1787 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1789 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1790 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1795 København V 
-1084 Region Hovedstaden 101 Københavns Kommune    1799 København V 
+1084 Region Hovedstaden 101 Københavns Kommune    1778 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1780 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1785 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1786 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1787 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1789 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1790 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1795 København V 55.67543 12.57086
+1084 Region Hovedstaden 101 Københavns Kommune    1799 København V 55.67543 12.57086
 1084 Region Hovedstaden 101 Københavns Kommune    1810 Frederiksberg C 55.67206 12.53984
 1084 Region Hovedstaden 101 Københavns Kommune    2000 Frederiksberg 55.68044 12.51722
 1084 Region Hovedstaden 101 Københavns Kommune    2100 København Ø 55.70836 12.57823
@@ -980,8 +980,8 @@
 1084 Region Hovedstaden 101 Københavns Kommune    2770 Kastrup 55.61868 12.64551
 1084 Region Hovedstaden 101 Københavns Kommune    2860 Søborg 55.73641 12.49513
 1084 Region Hovedstaden 101 Københavns Kommune    2900 Hellerup 55.73293 12.56198
-1084 Region Hovedstaden 147 Frederiksberg Kommune 1780 København V 
-1084 Region Hovedstaden 147 Frederiksberg Kommune 1790 København V 
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1780 København V 55.67543 12.57086
+1084 Region Hovedstaden 147 Frederiksberg Kommune 1790 København V 55.67543 12.57086
 1084 Region Hovedstaden 147 Frederiksberg Kommune 1800 Frederiksberg C 55.67053 12.53540
 1084 Region Hovedstaden 147 Frederiksberg Kommune 1801 Frederiksberg C 55.66879 12.53512
 1084 Region Hovedstaden 147 Frederiksberg Kommune 1802 Frederiksberg C 55.66985 12.53467
@@ -1105,7 +1105,7 @@
 1084 Region Hovedstaden 157 Gentofte Kommune       2800 Kongens Lyngby 55.78297 12.51784
 1084 Region Hovedstaden 157 Gentofte Kommune       2820 Gentofte 55.75380 12.53126
 1084 Region Hovedstaden 157 Gentofte Kommune       2860 Søborg 55.73641 12.49513
-1084 Region Hovedstaden 157 Gentofte Kommune       2870 Dyssegård 
+1084 Region Hovedstaden 157 Gentofte Kommune       2870 Dyssegård 55.731597 12.532604
 1084 Region Hovedstaden 157 Gentofte Kommune       2900 Hellerup 55.73293 12.56198
 1084 Region Hovedstaden 157 Gentofte Kommune       2920 Charlottenlund 55.75805 12.57367
 1084 Region Hovedstaden 157 Gentofte Kommune       2930 Klampenborg 55.77751 12.58396
@@ -1125,9 +1125,9 @@
 1084 Region Hovedstaden 167 Hvidovre Kommune       2610 Rødovre 55.68724 12.44904
 1084 Region Hovedstaden 167 Hvidovre Kommune       2650 Hvidovre 55.62950 12.47002
 1084 Region Hovedstaden 167 Hvidovre Kommune       2660 Brøndby Strand 55.62202 12.41906
-1084 Region Hovedstaden 169 Høje-Taastrup Kommune   800 Høje Taastrup 
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune   800 Høje Taastrup 55.66713 12.27888
 1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2630 Taastrup 55.66713 12.27888
-1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2633 Returpost 
+1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2633 Returpost 55.66713 12.27888
 1084 Region Hovedstaden 169 Høje-Taastrup Kommune  2640 Hedehusene 55.65251 12.19780
 1084 Region Hovedstaden 169 Høje-Taastrup Kommune  4000 Roskilde 55.64374 12.07486
 1084 Region Hovedstaden 173 Lyngby-Taarbæk Kommune 2800 Kongens Lyngby 55.78297 12.51784
@@ -1139,8 +1139,8 @@
 1084 Region Hovedstaden 175 Rødovre Kommune        2730 Herlev 55.73375 12.43373
 1084 Region Hovedstaden 183 Ishøj Kommune          2635 Ishøj 55.62157 12.31425
 1084 Region Hovedstaden 183 Ishøj Kommune          2640 Hedehusene 55.65251 12.19780
-1084 Region Hovedstaden 185 Tårnby Kommune         1532 København V 
-1084 Region Hovedstaden 185 Tårnby Kommune      1533 København V 
+1084 Region Hovedstaden 185 Tårnby Kommune         1532 København V 55.67543 12.57086
+1084 Region Hovedstaden 185 Tårnby Kommune      1533 København V 55.67543 12.57086
 1084 Region Hovedstaden 185 Tårnby Kommune      2300 København S 55.64747 12.58836
 1084 Region Hovedstaden 185 Tårnby Kommune      2770 Kastrup 55.61868 12.64551
 1084 Region Hovedstaden 185 Tårnby Kommune      2791 Dragør 55.58534 12.61562
@@ -1241,7 +1241,7 @@
 1085 Region Sjælland    253 Greve Kommune         2640 Hedehusene 55.65251 12.19780
 1085 Region Sjælland    253 Greve Kommune         2670 Greve 55.59681 12.27738
 1085 Region Sjælland    253 Greve Kommune         2690 Karlslunde 55.56609 12.22281
-1085 Region Sjælland    253 Greve Kommune         4030 Tune 
+1085 Region Sjælland    253 Greve Kommune         4030 Tune 55.59328545584141 12.17010498046875
 1085 Region Sjælland    259 Køge Kommune          4100 Ringsted 55.44140 11.83134
 1085 Region Sjælland    259 Køge Kommune          4130 Viby Sjælland 55.54462 12.02342
 1085 Region Sjælland 259 Køge Kommune      4140 Borup 55.49523 11.96253
@@ -1255,7 +1255,7 @@
 1085 Region Sjælland 265 Roskilde Kommune  2640 Hedehusene 55.65251 12.19780
 1085 Region Sjælland 265 Roskilde Kommune  3670 Veksø Sjælland 55.74680 12.22270
 1085 Region Sjælland 265 Roskilde Kommune  4000 Roskilde 55.64374 12.07486
-1085 Region Sjælland 265 Roskilde Kommune  4030 Tune 
+1085 Region Sjælland 265 Roskilde Kommune  4030 Tune 55.59328545584141 12.17010498046875
 1085 Region Sjælland 265 Roskilde Kommune  4040 Jyllinge 55.75654 12.10702
 1085 Region Sjælland 265 Roskilde Kommune  4130 Viby Sjælland 55.54462 12.02342
 1085 Region Sjælland 265 Roskilde Kommune  4140 Borup 55.49523 11.96253
