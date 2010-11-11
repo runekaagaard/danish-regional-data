@@ -621,7 +621,7 @@
 1084 Region Hovedstaden 101 Københavns Kommune 1129 København K 55.68321 12.57460
 1084 Region Hovedstaden 101 Københavns Kommune 1130 København K 55.68354 12.57433
 1084 Region Hovedstaden 101 Københavns Kommune 1131 København K 55.68395 12.57393
-1084 Region Hovedstaden 101 Københavns Kommune 1140 København K 55.68176, 12.604602
+1084 Region Hovedstaden 101 Københavns Kommune 1140 København K 55.68176 12.604602
 1084 Region Hovedstaden 101 Københavns Kommune 1147 København 55.680847 12.580362
 1084 Region Hovedstaden 101 Københavns Kommune 1148 København K 55.682657 12.577648
 1084 Region Hovedstaden 101 Københavns Kommune 1150 København K 55.68080 12.57706
@@ -1322,7 +1322,7 @@
 1085 Region Sjælland 326 Kalundborg Kommune 4592 Sejerø 55.88928 11.13994
 1085 Region Sjælland 326 Kalundborg Kommune 4593 Eskebjerg 55.71227 11.26672
 1085 Region Sjælland 329 Ringsted Kommune   4100 Ringsted 55.44140 11.83134
-1085 Region Sjælland 329 Ringsted Kommune   4105 Ringsted 
+1085 Region Sjælland 329 Ringsted Kommune   4105 Ringsted 55.44140 11.83134
 1085 Region Sjælland 329 Ringsted Kommune   4140 Borup 55.49523 11.96253
 1085 Region Sjælland 329 Ringsted Kommune   4173 Fjenneslev 55.43433 11.66370
 1085 Region Sjælland 329 Ringsted Kommune   4174 Jystrup Midtsj 55.52436 11.85451
