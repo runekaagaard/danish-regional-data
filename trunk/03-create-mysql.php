@@ -22,11 +22,5 @@ require $file;
 flatten_array_key($data['postalcodes'], array('commune_ids', 'commune_names', 'region_ids', 'region_names', 'within_5_km', 'within_10_km', 'within_25_km', 'within_50_km', 'within_100_km'));
 extract($data);
 
-/*foreach ($data['postalcodes'] as $zipcode) {
-    var_dump($zipcode); die;
-}*/
-
-
-#var_dump($data); die;
-#ob_start();
+// Output sql.
 require DRD_ROOT . 'mysql_template.php';
