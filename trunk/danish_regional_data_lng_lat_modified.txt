@@ -525,7 +525,7 @@
 1083 Region Syddanmark  580 Aabenraa Kommune   6392 Bolderslev 54.99039 9.24993
 1083 Region Syddanmark  580 Aabenraa Kommune   6534 Agerskov 55.12822 9.17099
 1083 Region Syddanmark  607 Fredericia Kommune 7000 Fredericia 55.58361 9.66075
-1083 Region Syddanmark  607 Fredericia Kommune 7007 Fredericia 56.14872 10.202132
+1083 Region Syddanmark  607 Fredericia Kommune 7007 Fredericia 55.58361 9.66075
 1083 Region Syddanmark  621 Kolding Kommune    6000 Kolding 55.49745 9.47563
 1083 Region Syddanmark  621 Kolding Kommune    6040 Egtved 55.60845 9.34329
 1083 Region Syddanmark  621 Kolding Kommune    6051 Almind 55.56092 9.48573
